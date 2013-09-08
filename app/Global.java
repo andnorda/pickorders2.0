@@ -22,9 +22,9 @@ public class Global extends GlobalSettings {
         if(Ebean.find(Card.class).findRowCount() == 0) {
 
             @SuppressWarnings("unchecked")
-            Map<String,List<Object>> all = (Map<String,List<Object>>)Yaml.load("initial-data.yml");
+            Map<String,List<Object>> yaml = (Map<String,List<Object>>)Yaml.load("initial-data.yml");
 
-            Ebean.save(all.get("cards"));
+            Ebean.save(yaml.get("cards"));
 
         }
     }
