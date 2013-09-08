@@ -20,6 +20,9 @@ public class Card {
     private String colors;
 
     @Constraints.Required
+    private String type;
+
+    @Constraints.Required
     private String set;
 
     @Constraints.Required
@@ -50,6 +53,14 @@ public class Card {
 
     public void setColors(String colors) {
         this.colors = colors;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
     }
 
     public String getSet() {
