@@ -16,6 +16,15 @@ public class Card {
     @Constraints.Required
     private String name;
 
+    @Constraints.Required
+    private String colors;
+
+    @Constraints.Required
+    private String set;
+
+    @Constraints.Required
+    private String rarity;
+
     @OneToMany
     private List<PickorderCard> pickorders;
 
@@ -33,6 +42,30 @@ public class Card {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getColors() {
+        return colors;
+    }
+
+    public void setColors(String colors) {
+        this.colors = colors;
+    }
+
+    public String getSet() {
+        return set;
+    }
+
+    public void setSet(String set) {
+        this.set = set;
+    }
+
+    public String getRarity() {
+        return rarity;
+    }
+
+    public void setRarity(String rarity) {
+        this.rarity = rarity;
     }
 
     public List<PickorderCard> getPickorders() {

@@ -8,7 +8,7 @@ import javax.persistence.*;
 @Table(name="PICKORDER_CARD")
 @IdClass(PickorderCardId.class)
 public class PickorderCard {
-    
+
     @Constraints.Required
     private Integer rank;
 

@@ -1,0 +1,13 @@
+cards:
+  - !!models.Card
+    name:   Advent of the Wurm
+    colors: GW
+    set:    DGM
+    rarity: rare
+
+  - !!models.Card
+    name:   Alive // Well
+    colors: GW
+    set:    DGM
+    rarity: uncommon
+
