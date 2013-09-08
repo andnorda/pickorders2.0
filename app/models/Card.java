@@ -1,5 +1,6 @@
 package models;
 
+import org.codehaus.jackson.annotate.JsonIgnore;
 import play.data.validation.Constraints;
 
 import javax.persistence.Entity;
@@ -28,6 +29,7 @@ public class Card {
     @Constraints.Required
     private String rarity;
 
+    @JsonIgnore
     @OneToMany
     private List<PickorderCard> pickorders;
 
