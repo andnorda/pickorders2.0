@@ -15,5 +15,8 @@ public class CardController extends Controller {
     public Result getAllCards() {
         return ok(Json.toJson(cardService.getAllCards()));
     }
+    public Result getCard(Long id) {
+        return ok(Json.toJson(cardService.getCard(id)));
+    }
 
 }

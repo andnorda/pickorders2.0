@@ -1,1637 +1,1637 @@
 cards:
   - !!models.Card
-    name:   Academy Raider
+    name:   academy raider
     colors: R
     type:   Creature — Human Warrior
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Accorder's Shield
+    name:   accorder's shield
     colors: 
     type:   Artifact — Equipment
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Accursed Spirit
+    name:   accursed spirit
     colors: B
     type:   Creature — Spirit
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Act of Treason
+    name:   act of treason
     colors: R
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Advocate of the Beast
+    name:   advocate of the beast
     colors: G
     type:   Creature — Elf Shaman
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Air Servant
+    name:   air servant
     colors: U
     type:   Creature — Elemental
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Ajani, Caller of the Pride
+    name:   ajani, caller of the pride
     colors: W
     type:   Planeswalker — Ajani
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Ajani's Chosen
+    name:   ajani's chosen
     colors: W
     type:   Creature — Cat Soldier
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Altar's Reap
+    name:   altar's reap
     colors: B
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Angelic Accord
+    name:   angelic accord
     colors: W
     type:   Enchantment
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Angelic Wall
+    name:   angelic wall
     colors: W
     type:   Creature — Wall
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Archaeomancer
+    name:   archaeomancer
     colors: U
     type:   Creature — Human Wizard
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Archangel of Thune
+    name:   archangel of thune
     colors: W
     type:   Creature — Angel
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Armored Cancrix
+    name:   armored cancrix
     colors: U
     type:   Creature — Crab
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Artificer's Hex
+    name:   artificer's hex
     colors: B
     type:   Enchantment — Aura
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Auramancer
+    name:   auramancer
     colors: W
     type:   Creature — Human Wizard
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Awaken the Ancient
+    name:   awaken the ancient
     colors: R
     type:   Enchantment — Aura
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Banisher Priest
+    name:   banisher priest
     colors: W
     type:   Creature — Human Cleric
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Barrage of Expendables
+    name:   barrage of expendables
     colors: R
     type:   Enchantment
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Battle Sliver
+    name:   battle sliver
     colors: R
     type:   Creature — Sliver
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Blessing
+    name:   blessing
     colors: W
     type:   Enchantment — Aura
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Blightcaster
+    name:   blightcaster
     colors: B
     type:   Creature — Human Wizard
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Blood Bairn
+    name:   blood bairn
     colors: B
     type:   Creature — Vampire
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Blur Sliver
+    name:   blur sliver
     colors: R
     type:   Creature — Sliver
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Bogbrew Witch
+    name:   bogbrew witch
     colors: B
     type:   Creature — Human Wizard
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Bonescythe Sliver
+    name:   bonescythe sliver
     colors: W
     type:   Creature — Sliver
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Bramblecrush
+    name:   bramblecrush
     colors: G
     type:   Sorcery
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Brave the Elements
+    name:   brave the elements
     colors: W
     type:   Instant
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Briarpack Alpha
+    name:   briarpack alpha
     colors: G
     type:   Creature — Wolf
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Brindle Boar
+    name:   brindle boar
     colors: G
     type:   Creature — Boar
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Bubbling Cauldron
+    name:   bubbling cauldron
     colors: 
     type:   Artifact
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Burning Earth
+    name:   burning earth
     colors: R
     type:   Enchantment
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Cancel
+    name:   cancel
     colors: U
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Canyon Minotaur
+    name:   canyon minotaur
     colors: R
     type:   Creature — Minotaur Warrior
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Capashen Knight
+    name:   capashen knight
     colors: W
     type:   Creature — Human Knight
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Celestial Flare
+    name:   celestial flare
     colors: W
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Chandra, Pyromaster
+    name:   chandra, pyromaster
     colors: R
     type:   Planeswalker — Chandra
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Chandra's Outrage
+    name:   chandra's outrage
     colors: R
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Chandra's Phoenix
+    name:   chandra's phoenix
     colors: R
     type:   Creature — Phoenix
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Charging Griffin
+    name:   charging griffin
     colors: W
     type:   Creature — Griffin
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Child of Night
+    name:   child of night
     colors: B
     type:   Creature — Vampire
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Claustrophobia
+    name:   claustrophobia
     colors: U
     type:   Enchantment — Aura
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Clone
+    name:   clone
     colors: U
     type:   Creature — Shapeshifter
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Colossal Whale
+    name:   colossal whale
     colors: U
     type:   Creature — Whale
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Congregate
+    name:   congregate
     colors: W
     type:   Instant
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Coral Merfolk
+    name:   coral merfolk
     colors: U
     type:   Creature — Merfolk
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Corpse Hauler
+    name:   corpse hauler
     colors: B
     type:   Creature — Human Rogue
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Corrupt
+    name:   corrupt
     colors: B
     type:   Sorcery
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Cyclops Tyrant
+    name:   cyclops tyrant
     colors: R
     type:   Creature — Cyclops
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Dark Favor
+    name:   dark favor
     colors: B
     type:   Enchantment — Aura
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Dark Prophecy
+    name:   dark prophecy
     colors: B
     type:   Enchantment
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Darksteel Forge
+    name:   darksteel forge
     colors: 
     type:   Artifact
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Darksteel Ingot
+    name:   darksteel ingot
     colors: 
     type:   Artifact
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Dawnstrike Paladin
+    name:   dawnstrike paladin
     colors: W
     type:   Creature — Human Knight
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Deadly Recluse
+    name:   deadly recluse
     colors: G
     type:   Creature — Spider
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Deathgaze Cockatrice
+    name:   deathgaze cockatrice
     colors: B
     type:   Creature — Cockatrice
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Demolish
+    name:   demolish
     colors: R
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Devout Invocation
+    name:   devout invocation
     colors: W
     type:   Sorcery
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Diabolic Tutor
+    name:   diabolic tutor
     colors: B
     type:   Sorcery
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Dismiss into Dream
+    name:   dismiss into dream
     colors: U
     type:   Enchantment
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Disperse
+    name:   disperse
     colors: U
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Divination
+    name:   divination
     colors: U
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Divine Favor
+    name:   divine favor
     colors: W
     type:   Enchantment — Aura
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Domestication
+    name:   domestication
     colors: U
     type:   Enchantment — Aura
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Doom Blade
+    name:   doom blade
     colors: B
     type:   Instant
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Door of Destinies
+    name:   door of destinies
     colors: 
     type:   Artifact
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Dragon Egg
+    name:   dragon egg
     colors: R
     type:   Creature — Dragon
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Dragon Hatchling
+    name:   dragon hatchling
     colors: R
     type:   Creature — Dragon
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Duress
+    name:   duress
     colors: B
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Elite Arcanist
+    name:   elite arcanist
     colors: U
     type:   Creature — Human Wizard
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Elixir of Immortality
+    name:   elixir of immortality
     colors: 
     type:   Artifact
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Elvish Mystic
+    name:   elvish mystic
     colors: G
     type:   Creature — Elf Druid
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Encroaching Wastes
+    name:   encroaching wastes
     colors: 
     type:   Land
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Enlarge
+    name:   enlarge
     colors: G
     type:   Sorcery
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Essence Scatter
+    name:   essence scatter
     colors: U
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Festering Newt
+    name:   festering newt
     colors: B
     type:   Creature — Salamander
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Fiendslayer Paladin
+    name:   fiendslayer paladin
     colors: W
     type:   Creature — Human Knight
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Fireshrieker
+    name:   fireshrieker
     colors: 
     type:   Artifact — Equipment
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Flames of the Firebrand
+    name:   flames of the firebrand
     colors: R
     type:   Sorcery
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Fleshpulper Giant
+    name:   fleshpulper giant
     colors: R
     type:   Creature — Giant
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Fog
+    name:   fog
     colors: G
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Forest
+    name:   forest
     colors: 
     type:   Basic Land — Forest
     set:    m14
     rarity: Land
 
   - !!models.Card
-    name:   Fortify
+    name:   fortify
     colors: W
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Frost Breath
+    name:   frost breath
     colors: U
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Galerider Sliver
+    name:   galerider sliver
     colors: U
     type:   Creature — Sliver
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Garruk, Caller of Beasts
+    name:   garruk, caller of beasts
     colors: G
     type:   Planeswalker — Garruk
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Garruk's Horde
+    name:   garruk's horde
     colors: G
     type:   Creature — Beast
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Giant Growth
+    name:   giant growth
     colors: G
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Giant Spider
+    name:   giant spider
     colors: G
     type:   Creature — Spider
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Gladecover Scout
+    name:   gladecover scout
     colors: G
     type:   Creature — Elf Scout
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Glimpse the Future
+    name:   glimpse the future
     colors: U
     type:   Sorcery
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Gnawing Zombie
+    name:   gnawing zombie
     colors: B
     type:   Creature — Zombie
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Goblin Diplomats
+    name:   goblin diplomats
     colors: R
     type:   Creature — Goblin
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Goblin Shortcutter
+    name:   goblin shortcutter
     colors: R
     type:   Creature — Goblin Scout
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Griffin Sentinel
+    name:   griffin sentinel
     colors: W
     type:   Creature — Griffin
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Grim Return
+    name:   grim return
     colors: B
     type:   Instant
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Groundshaker Sliver
+    name:   groundshaker sliver
     colors: G
     type:   Creature — Sliver
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Guardian of the Ages
+    name:   guardian of the ages
     colors: 
     type:   Artifact Creature — Golem
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Haunted Plate Mail
+    name:   haunted plate mail
     colors: 
     type:   Artifact — Equipment
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Hive Stirrings
+    name:   hive stirrings
     colors: W
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Howl of the Night Pack
+    name:   howl of the night pack
     colors: G
     type:   Sorcery
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Hunt the Weak
+    name:   hunt the weak
     colors: G
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Illusionary Armor
+    name:   illusionary armor
     colors: U
     type:   Enchantment — Aura
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Imposing Sovereign
+    name:   imposing sovereign
     colors: W
     type:   Creature — Human
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Indestructibility
+    name:   indestructibility
     colors: W
     type:   Enchantment — Aura
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Into the Wilds
+    name:   into the wilds
     colors: G
     type:   Enchantment
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Island
+    name:   island
     colors: 
     type:   Basic Land — Island
     set:    m14
     rarity: Land
 
   - !!models.Card
-    name:   Jace, Memory Adept
+    name:   jace, memory adept
     colors: U
     type:   Planeswalker — Jace
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Jace's Mindseeker
+    name:   jace's mindseeker
     colors: U
     type:   Creature — Fish Illusion
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Kalonian Hydra
+    name:   kalonian hydra
     colors: G
     type:   Creature — Hydra
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Kalonian Tusker
+    name:   kalonian tusker
     colors: G
     type:   Creature — Beast
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Lava Axe
+    name:   lava axe
     colors: R
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Lay of the Land
+    name:   lay of the land
     colors: G
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Lifebane Zombie
+    name:   lifebane zombie
     colors: B
     type:   Creature — Zombie Warrior
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Lightning Talons
+    name:   lightning talons
     colors: R
     type:   Enchantment — Aura
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Liliana of the Dark Realms
+    name:   liliana of the dark realms
     colors: B
     type:   Planeswalker — Liliana
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Liliana's Reaver
+    name:   liliana's reaver
     colors: B
     type:   Creature — Zombie
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Liturgy of Blood
+    name:   liturgy of blood
     colors: B
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Manaweft Sliver
+    name:   manaweft sliver
     colors: G
     type:   Creature — Sliver
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Marauding Maulhorn
+    name:   marauding maulhorn
     colors: R
     type:   Creature — Beast
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Mark of the Vampire
+    name:   mark of the vampire
     colors: B
     type:   Enchantment — Aura
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Master of Diversion
+    name:   master of diversion
     colors: W
     type:   Creature — Human Scout
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Megantic Sliver
+    name:   megantic sliver
     colors: G
     type:   Creature — Sliver
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Merfolk Spy
+    name:   merfolk spy
     colors: U
     type:   Creature — Merfolk Rogue
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Messenger Drake
+    name:   messenger drake
     colors: U
     type:   Creature — Drake
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Millstone
+    name:   millstone
     colors: 
     type:   Artifact
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Mind Rot
+    name:   mind rot
     colors: B
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Mindsparker
+    name:   mindsparker
     colors: R
     type:   Creature — Elemental
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Minotaur Abomination
+    name:   minotaur abomination
     colors: B
     type:   Creature — Zombie Minotaur
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Molten Birth
+    name:   molten birth
     colors: R
     type:   Sorcery
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Mountain
+    name:   mountain
     colors: 
     type:   Basic Land — Mountain
     set:    m14
     rarity: Land
 
   - !!models.Card
-    name:   Mutavault
+    name:   mutavault
     colors: 
     type:   Land
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Naturalize
+    name:   naturalize
     colors: G
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Negate
+    name:   negate
     colors: U
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Nephalia Seakite
+    name:   nephalia seakite
     colors: U
     type:   Creature — Bird
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Nightmare
+    name:   nightmare
     colors: B
     type:   Creature — Nightmare Horse
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Nightwing Shade
+    name:   nightwing shade
     colors: B
     type:   Creature — Shade
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Oath of the Ancient Wood
+    name:   oath of the ancient wood
     colors: G
     type:   Enchantment
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Ogre Battledriver
+    name:   ogre battledriver
     colors: R
     type:   Creature — Ogre Warrior
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Opportunity
+    name:   opportunity
     colors: U
     type:   Instant
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Pacifism
+    name:   pacifism
     colors: W
     type:   Enchantment — Aura
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Path of Bravery
+    name:   path of bravery
     colors: W
     type:   Enchantment
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Pay No Heed
+    name:   pay no heed
     colors: W
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Phantom Warrior
+    name:   phantom warrior
     colors: U
     type:   Creature — Illusion Warrior
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Pillarfield Ox
+    name:   pillarfield ox
     colors: W
     type:   Creature — Ox
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Pitchburn Devils
+    name:   pitchburn devils
     colors: R
     type:   Creature — Devil
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Plains
+    name:   plains
     colors: 
     type:   Basic Land — Plains
     set:    m14
     rarity: Land
 
   - !!models.Card
-    name:   Planar Cleansing
+    name:   planar cleansing
     colors: W
     type:   Sorcery
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Plummet
+    name:   plummet
     colors: G
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Predatory Sliver
+    name:   predatory sliver
     colors: G
     type:   Creature — Sliver
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Primeval Bounty
+    name:   primeval bounty
     colors: G
     type:   Enchantment
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Pyromancer's Gauntlet
+    name:   pyromancer's gauntlet
     colors: 
     type:   Artifact
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Quag Sickness
+    name:   quag sickness
     colors: B
     type:   Enchantment — Aura
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Quicken
+    name:   quicken
     colors: U
     type:   Instant
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Ranger's Guile
+    name:   ranger's guile
     colors: G
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Ratchet Bomb
+    name:   ratchet bomb
     colors: 
     type:   Artifact
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Regathan Firecat
+    name:   regathan firecat
     colors: R
     type:   Creature — Elemental Cat
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Ring of Three Wishes
+    name:   ring of three wishes
     colors: 
     type:   Artifact
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Rise of the Dark Realms
+    name:   rise of the dark realms
     colors: B
     type:   Sorcery
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Rod of Ruin
+    name:   rod of ruin
     colors: 
     type:   Artifact
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Rootwalla
+    name:   rootwalla
     colors: G
     type:   Creature — Lizard
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Rumbling Baloth
+    name:   rumbling baloth
     colors: G
     type:   Creature — Beast
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Sanguine Bond
+    name:   sanguine bond
     colors: B
     type:   Enchantment
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Savage Summoning
+    name:   savage summoning
     colors: G
     type:   Instant
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Scavenging Ooze
+    name:   scavenging ooze
     colors: G
     type:   Creature — Ooze
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Scourge of Valkas
+    name:   scourge of valkas
     colors: R
     type:   Creature — Dragon
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Scroll Thief
+    name:   scroll thief
     colors: U
     type:   Creature — Merfolk Rogue
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Seacoast Drake
+    name:   seacoast drake
     colors: U
     type:   Creature — Drake
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Seismic Stomp
+    name:   seismic stomp
     colors: R
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Sengir Vampire
+    name:   sengir vampire
     colors: B
     type:   Creature — Vampire
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Sensory Deprivation
+    name:   sensory deprivation
     colors: U
     type:   Enchantment — Aura
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Sentinel Sliver
+    name:   sentinel sliver
     colors: W
     type:   Creature — Sliver
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Seraph of the Sword
+    name:   seraph of the sword
     colors: W
     type:   Creature — Angel
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Serra Angel
+    name:   serra angel
     colors: W
     type:   Creature — Angel
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Shadowborn Apostle
+    name:   shadowborn apostle
     colors: B
     type:   Creature — Human Cleric
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Shadowborn Demon
+    name:   shadowborn demon
     colors: B
     type:   Creature — Demon
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Shimmering Grotto
+    name:   shimmering grotto
     colors: 
     type:   Land
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Shivan Dragon
+    name:   shivan dragon
     colors: R
     type:   Creature — Dragon
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Shiv's Embrace
+    name:   shiv's embrace
     colors: R
     type:   Enchantment — Aura
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Shock
+    name:   shock
     colors: R
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Show of Valor
+    name:   show of valor
     colors: W
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Shrivel
+    name:   shrivel
     colors: B
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Siege Mastodon
+    name:   siege mastodon
     colors: W
     type:   Creature — Elephant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Silence
+    name:   silence
     colors: W
     type:   Instant
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Sliver Construct
+    name:   sliver construct
     colors: 
     type:   Artifact Creature — Sliver Construct
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Smelt
+    name:   smelt
     colors: R
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Solemn Offering
+    name:   solemn offering
     colors: W
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Soulmender
+    name:   soulmender
     colors: W
     type:   Creature — Human Cleric
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Spell Blast
+    name:   spell blast
     colors: U
     type:   Instant
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Sporemound
+    name:   sporemound
     colors: G
     type:   Creature — Fungus
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Staff of the Death Magus
+    name:   staff of the death magus
     colors: 
     type:   Artifact
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Staff of the Flame Magus
+    name:   staff of the flame magus
     colors: 
     type:   Artifact
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Staff of the Mind Magus
+    name:   staff of the mind magus
     colors: 
     type:   Artifact
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Staff of the Sun Magus
+    name:   staff of the sun magus
     colors: 
     type:   Artifact
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Staff of the Wild Magus
+    name:   staff of the wild magus
     colors: 
     type:   Artifact
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Steelform Sliver
+    name:   steelform sliver
     colors: W
     type:   Creature — Sliver
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Stonehorn Chanter
+    name:   stonehorn chanter
     colors: W
     type:   Creature — Rhino Cleric
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Striking Sliver
+    name:   striking sliver
     colors: R
     type:   Creature — Sliver
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Strionic Resonator
+    name:   strionic resonator
     colors: 
     type:   Artifact
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Suntail Hawk
+    name:   suntail hawk
     colors: W
     type:   Creature — Bird
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Swamp
+    name:   swamp
     colors: 
     type:   Basic Land — Swamp
     set:    m14
     rarity: Land
 
   - !!models.Card
-    name:   Syphon Sliver
+    name:   syphon sliver
     colors: B
     type:   Creature — Sliver
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Tenacious Dead
+    name:   tenacious dead
     colors: B
     type:   Creature — Skeleton Warrior
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Thorncaster Sliver
+    name:   thorncaster sliver
     colors: R
     type:   Creature — Sliver
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Thunder Strike
+    name:   thunder strike
     colors: R
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Tidebinder Mage
+    name:   tidebinder mage
     colors: U
     type:   Creature — Merfolk Wizard
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Time Ebb
+    name:   time ebb
     colors: U
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Tome Scour
+    name:   tome scour
     colors: U
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Trading Post
+    name:   trading post
     colors: 
     type:   Artifact
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Trained Condor
+    name:   trained condor
     colors: U
     type:   Creature — Bird
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Traumatize
+    name:   traumatize
     colors: U
     type:   Sorcery
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Trollhide
+    name:   trollhide
     colors: G
     type:   Enchantment — Aura
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Undead Minotaur
+    name:   undead minotaur
     colors: B
     type:   Creature — Zombie Minotaur
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Vampire Warlord
+    name:   vampire warlord
     colors: B
     type:   Creature — Vampire Warrior
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Vastwood Hydra
+    name:   vastwood hydra
     colors: G
     type:   Creature — Hydra
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Verdant Haven
+    name:   verdant haven
     colors: G
     type:   Enchantment — Aura
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Vial of Poison
+    name:   vial of poison
     colors: 
     type:   Artifact
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Vile Rebirth
+    name:   vile rebirth
     colors: B
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Volcanic Geyser
+    name:   volcanic geyser
     colors: R
     type:   Instant
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Voracious Wurm
+    name:   voracious wurm
     colors: G
     type:   Creature — Wurm
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Wall of Frost
+    name:   wall of frost
     colors: U
     type:   Creature — Wall
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Wall of Swords
+    name:   wall of swords
     colors: W
     type:   Creature — Wall
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Warden of Evos Isle
+    name:   warden of evos isle
     colors: U
     type:   Creature — Bird Wizard
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Water Servant
+    name:   water servant
     colors: U
     type:   Creature — Elemental
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Wild Guess
+    name:   wild guess
     colors: R
     type:   Sorcery
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Wild Ricochet
+    name:   wild ricochet
     colors: R
     type:   Instant
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Windreader Sphinx
+    name:   windreader sphinx
     colors: U
     type:   Creature — Sphinx
     set:    m14
     rarity: Mythic Rare
 
   - !!models.Card
-    name:   Windstorm
+    name:   windstorm
     colors: G
     type:   Instant
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Witchstalker
+    name:   witchstalker
     colors: G
     type:   Creature — Wolf
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Woodborn Behemoth
+    name:   woodborn behemoth
     colors: G
     type:   Creature — Elemental
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Wring Flesh
+    name:   wring flesh
     colors: B
     type:   Instant
     set:    m14
     rarity: Common
 
   - !!models.Card
-    name:   Xathrid Necromancer
+    name:   xathrid necromancer
     colors: B
     type:   Creature — Human Wizard
     set:    m14
     rarity: Rare
 
   - !!models.Card
-    name:   Young Pyromancer
+    name:   young pyromancer
     colors: R
     type:   Creature — Human Shaman
     set:    m14
     rarity: Uncommon
 
   - !!models.Card
-    name:   Zephyr Charge
+    name:   zephyr charge
     colors: U
     type:   Enchantment
     set:    m14

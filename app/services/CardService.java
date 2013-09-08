@@ -17,4 +17,7 @@ public class CardService {
         return cardRepository.getAll();
     }
 
+    public Card getCard(Long id) {
+        return cardRepository.getCard(id);
+    }
 }

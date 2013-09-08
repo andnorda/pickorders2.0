@@ -34,4 +34,11 @@ public class PickorderService {
 
     }
 
+    public Pickorder getPickorder(Long id) {
+        return pickorderRepository.getPickorder(id);
+    }
+
+    public List<Pickorder> getAllPickorders() {
+        return pickorderRepository.getAllPickorders();
+    }
 }

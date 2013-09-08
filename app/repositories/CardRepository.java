@@ -14,4 +14,8 @@ public class CardRepository {
     public List<Card> getAll() {
         return find.all();
     }
+
+    public Card getCard(Long id) {
+        return find.byId(id);
+    }
 }

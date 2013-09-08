@@ -2,7 +2,7 @@ package models;
 
 public class PickorderCardId {
 
-    private Integer cardId;
-    private Integer pickorderId;
+    private Long cardId;
+    private Long pickorderId;
 
 }

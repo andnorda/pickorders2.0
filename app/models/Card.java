@@ -12,7 +12,7 @@ import java.util.List;
 public class Card {
 
     @Id
-    private Integer id;
+    private Long id;
 
     @Constraints.Required
     private String name;
@@ -33,11 +33,11 @@ public class Card {
     @OneToMany
     private List<PickorderCard> pickorders;
 
-    public Integer getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(Integer id) {
+    public void setId(Long id) {
         this.id = id;
     }
 

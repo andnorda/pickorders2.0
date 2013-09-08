@@ -5,18 +5,16 @@
 # Home page
 GET     /                           controllers.Application.index()
 
-# Tasks
-GET     /tasks                      controllers.Application.tasks()
-POST    /tasks                      controllers.Application.newTask()
-POST    /tasks/:id/delete           controllers.Application.deleteTask(id: Long)
-
 ################ API ###################
 
-# Cards
+# Card
 GET     /api/cards                  @controllers.CardController.getAllCards()
+GET     /api/cards/:id              @controllers.CardController.getCard(id: Long)
 
 # Pickorders
-GET     /api/pickorders             @controllers.PickorderController.createPickorder()
+GET     /api/pickorders/create      @controllers.PickorderController.createPickorder()
+GET     /api/pickorders             @controllers.PickorderController.getAllPickorders()
+GET     /api/pickorders/:id         @controllers.PickorderController.getPickorder(id: Long)
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.at(path="/public", file)

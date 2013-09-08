@@ -11,7 +11,7 @@ import java.util.List;
 public class Pickorder {
 
     @Id
-    private Integer id;
+    private Long id;
 
     @Constraints.Required
     private String name;
@@ -19,11 +19,11 @@ public class Pickorder {
     @OneToMany
     private List<PickorderCard> cards;
 
-    public Integer getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(Integer id) {
+    public void setId(Long id) {
         this.id = id;
     }
 

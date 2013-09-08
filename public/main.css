@@ -1,0 +1,4 @@
+#card-list li {
+    list-style: none;
+    float: left;
+}

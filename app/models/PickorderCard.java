@@ -1,5 +1,6 @@
 package models;
 
+import org.codehaus.jackson.annotate.JsonIgnore;
 import play.data.validation.Constraints;
 
 import javax.persistence.*;
@@ -16,6 +17,7 @@ public class PickorderCard {
     @PrimaryKeyJoinColumn(name="CARDID", referencedColumnName="ID")
     private Card card;
 
+    @JsonIgnore
     @ManyToOne
     @PrimaryKeyJoinColumn(name="PICKORDERID", referencedColumnName="ID")
     private Pickorder pickorder;

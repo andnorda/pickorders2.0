@@ -11,7 +11,7 @@ File.open("m14 yml", "w") do |output|
 
       if line.start_with? "Name"
 				skip = false;
-        name = line.split(%r{\t})[1].strip.split(%r{[ ]});
+        name = line.split(%r{\t})[1].strip.split(%r{[ ]}).each{|word| word.downcase!};
         if name[-1].start_with?('(') then
         	name[-1] = name[-1].delete('()')
         	if name[0] == name[-1] then
