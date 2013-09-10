@@ -6,29 +6,26 @@ define(function(require) {
     var CardView = require('views/cardView');
 
     var CardsView = Backbone.View.extend({
-
-        el: $("#card-list"),
+        el: $("#main"),
+        template: _.template("<ul id=\"card-list\"></ul>"),
 
         initialize: function() {
-            console.log(this)
-            this.listenTo(this.model, "add", this.addOne);
-            this.listenTo(this.model, "reset", this.addAll);
-            this.listenTo(this.model, "all", this.render);
-
-            this.model.fetch();
+            this.listenTo(this.collection, "reset", this.render);
         },
 
         render: function() {
+            this.$el.html(this.template);
+            this.addAll();
+            return this;
         },
 
         addOne: function(card) {
-            console.log("addOne")
             var view = new CardView({model: card});
-            this.$el.append(view.render().el);
+            this.$("#card-list").append(view.render().el);
         },
 
         addAll: function() {
-            console.log("add all?")
+            this.collection.forEach(this.addOne, this);
         }
 
     });

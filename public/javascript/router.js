@@ -2,23 +2,33 @@ define(function(require) {
 
     var Backbone = require('backbone');
     var Cards = require('models/cards');
-    var CardsView = require('views/cardsView')
+    var IndexView = require('views/indexView');
+    var CardsView = require('views/cardsView');
 
     var AppRouter = Backbone.Router.extend({
         routes: {
-            "": "cards"
+            "": "index",
+            "cards": "cards"
         },
 
         initialize: function() {
-            this.cardsView = null;
+        },
+
+        index: function() {
+            if (!this.indexView) {
+                this.indexView = new IndexView();
+            }
+            this.indexView.render();
         },
 
         cards: function() {
             if (!this.cardsView) {
+                this.cardCollection = new Cards();
                 this.cardsView = new CardsView({
-                    model: new Cards()
+                    collection: this.cardCollection
                 });
             }
+            this.cardCollection.fetch({reset: true});
         }
     });
 

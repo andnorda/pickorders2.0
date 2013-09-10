@@ -6,7 +6,7 @@ define(function(require) {
 
     var CardView = Backbone.View.extend({
         tagName: "li",
-        template: _.template($("#card-template").html()),
+        template: _.template("<img src=\"http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=<%- name %>\">"),
 
         render: function() {
             this.$el.html(this.template(this.model.toJSON()));
