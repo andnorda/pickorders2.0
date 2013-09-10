@@ -18,15 +18,6 @@ public class Global extends GlobalSettings {
     @Override
     public void onStart(Application app) {
         ctx = new ClassPathXmlApplicationContext("components.xml");
-
-        if(Ebean.find(Card.class).findRowCount() == 0) {
-
-            @SuppressWarnings("unchecked")
-            Map<String,List<Object>> yaml = (Map<String,List<Object>>)Yaml.load("initial-data.yml");
-
-            Ebean.save(yaml.get("cards"));
-
-        }
     }
 
     @Override
