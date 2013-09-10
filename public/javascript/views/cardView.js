@@ -1,15 +1,16 @@
 define(function(require) {
 
     var $ = require('jquery');
-    var _ = require('underscore');
     var Backbone = require('backbone');
+    var Mustache = require('mustache');
+    var CardTemplate = require('text!/assets/templates/cardTemplate.html');
 
     var CardView = Backbone.View.extend({
         tagName: "li",
-        template: _.template("<img src=\"http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=<%- name %>\">"),
 
         render: function() {
-            this.$el.html(this.template(this.model.toJSON()));
+            var template = Mustache.render(CardTemplate, { card: this.model.attributes })
+            this.$el.html(template);
             return this;
         }
     });

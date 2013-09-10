@@ -1,13 +1,12 @@
 define(function(require) {
 
     var $ = require('jquery');
-    var _ = require('underscore');
     var Backbone = require('backbone');
     var CardView = require('views/cardView');
 
     var CardsView = Backbone.View.extend({
         el: $("#main"),
-        template: _.template("<ul id=\"card-list\"></ul>"),
+        template: "<ul id='card-list'></ul>",
 
         initialize: function() {
             this.listenTo(this.collection, "reset", this.render);
@@ -16,7 +15,6 @@ define(function(require) {
         render: function() {
             this.$el.html(this.template);
             this.addAll();
-            return this;
         },
 
         addOne: function(card) {

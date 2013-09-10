@@ -2,7 +2,9 @@ require.config({
     paths: {
         jquery: 'libs/jquery-2.0.3.min',
         underscore: 'libs/underscore',
-        backbone: 'libs/backbone'
+        backbone: 'libs/backbone',
+        mustache: 'libs/mustache',
+        text: 'libs/text'
     },
 
     shim: {

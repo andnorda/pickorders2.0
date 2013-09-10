@@ -2,7 +2,7 @@ define(function(require) {
 
     var Backbone = require('backbone');
     var Cards = require('models/cards');
-    var IndexView = require('views/indexView');
+    var DashboardView = require('views/dashboardView');
     var CardsView = require('views/cardsView');
 
     var AppRouter = Backbone.Router.extend({
@@ -15,10 +15,10 @@ define(function(require) {
         },
 
         index: function() {
-            if (!this.indexView) {
-                this.indexView = new IndexView();
+            if (!this.dashboardView) {
+                this.dashboardView = new DashboardView();
             }
-            this.indexView.render();
+            this.dashboardView.render();
         },
 
         cards: function() {
