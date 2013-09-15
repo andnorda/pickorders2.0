@@ -2,6 +2,7 @@ package repositories;
 
 import com.avaje.ebean.Ebean;
 import models.Pickorder;
+import models.PickorderCard;
 import org.springframework.stereotype.Repository;
 import play.db.ebean.Model;
 
@@ -15,7 +16,7 @@ public class PickorderRepository {
     public Pickorder createPickorder(String name) {
         Pickorder pickorder = new Pickorder();
         pickorder.setName(name);
-        Ebean.save(pickorder);
+        pickorder.save();
         return pickorder;
     }
 
@@ -25,5 +26,12 @@ public class PickorderRepository {
 
     public List<Pickorder> getAllPickorders() {
         return find.all();
+    }
+
+    public void update(Pickorder pickorder) {
+        for (PickorderCard card : pickorder.getCards()) {
+            card.save(); // TODO: manual cascade...
+        }
+        pickorder.update();
     }
 }

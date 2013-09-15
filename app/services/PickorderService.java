@@ -23,7 +23,7 @@ public class PickorderService {
     public void createPickorder(String name) {
         Pickorder pickorder = pickorderRepository.createPickorder(name);
         List<Card> cards = cardRepository.getAll();
-        int count = 1;
+        int count = 0;
         for (Card card : cards) {
             PickorderCard pickorderCard = new PickorderCard();
             pickorderCard.setCard(card);
@@ -40,5 +40,20 @@ public class PickorderService {
 
     public List<Pickorder> getAllPickorders() {
         return pickorderRepository.getAllPickorders();
+    }
+
+    public void update(Long id, Integer rank, Integer newRank) {
+        Pickorder pickorder = pickorderRepository.getPickorder(id);
+
+        for (PickorderCard card : pickorder.getCards()) {
+            if (card.getRank() == rank) {
+                card.setRank(newRank);
+            } else if (card.getRank() == newRank) {
+                card.setRank(rank);
+            }
+        }
+
+        pickorderRepository.update(pickorder);
+
     }
 }

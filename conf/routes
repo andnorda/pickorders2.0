@@ -15,6 +15,7 @@ GET     /api/cards/:id              @controllers.CardController.getCard(id: Long
 GET     /api/pickorders/create      @controllers.PickorderController.createPickorder()
 GET     /api/pickorders             @controllers.PickorderController.getAllPickorders()
 GET     /api/pickorders/:id         @controllers.PickorderController.getPickorder(id: Long)
+PATCH   /api/pickorders/:id         @controllers.PickorderController.patchPickorder(id: Long)
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.at(path="/public", file)

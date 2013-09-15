@@ -1,6 +1,8 @@
 package models;
 
-public class PickorderCardId {
+import play.db.ebean.Model;
+
+public class PickorderCardId extends Model {
 
     private Long cardId;
     private Long pickorderId;

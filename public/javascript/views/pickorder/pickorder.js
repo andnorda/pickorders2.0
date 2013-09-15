@@ -8,6 +8,30 @@ define(function(require) {
     var PickorderView = Backbone.View.extend({
         el: $(".content"),
 
+        events: {
+            "click img": "click"
+        },
+
+        click: function(event) {
+            var target = $(event.target).closest('li');
+            var targetRank = target.data("rank");
+            var targetId = target.data("id");
+            if (targetRank > 0) {
+                //change model
+                var aboveTarget = target.closest('ul').find('li:eq(' + (targetRank-1) + ')');
+                var aboveTargetRank = aboveTarget.data("rank");
+                var aboveTargetId = aboveTarget.data("id");
+
+                //save
+                console.log("rank " + targetRank + " newRank " + aboveTargetRank);
+                this.model.save({rank: targetRank, newRank: aboveTargetRank}, {patch: true});
+
+                //update view?
+            }
+
+
+        },
+
         render: function() {
             var template = Mustache.render(PickorderTemplate, {
                 pickorder: this.model.attributes

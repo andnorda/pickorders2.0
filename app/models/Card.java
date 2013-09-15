@@ -2,6 +2,7 @@ package models;
 
 import org.codehaus.jackson.annotate.JsonIgnore;
 import play.data.validation.Constraints;
+import play.db.ebean.Model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
@@ -9,7 +10,7 @@ import javax.persistence.OneToMany;
 import java.util.List;
 
 @Entity
-public class Card {
+public class Card extends Model {
 
     @Id
     private Long id;

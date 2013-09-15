@@ -2,13 +2,14 @@ package models;
 
 import org.codehaus.jackson.annotate.JsonIgnore;
 import play.data.validation.Constraints;
+import play.db.ebean.Model;
 
 import javax.persistence.*;
 
 @Entity
 @Table(name="PICKORDER_CARD")
 @IdClass(PickorderCardId.class)
-public class PickorderCard {
+public class PickorderCard extends Model {
 
     @Constraints.Required
     private Integer rank;
