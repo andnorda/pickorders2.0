@@ -1,9 +1,11 @@
 define(function(require) {
 
     var Backbone = require('backbone');
+    var HeaderView = require('views/header');
+    var Pickorders = require('models/pickorders');
     var Cards = require('models/cards');
-    var DashboardView = require('views/dashboardView');
-    var CardsView = require('views/cardsView');
+    var DashboardView = require('views/dashboard');
+    var CardsView = require('views/card/cards');
 
     var AppRouter = Backbone.Router.extend({
         routes: {
@@ -12,13 +14,19 @@ define(function(require) {
         },
 
         initialize: function() {
+            var headerView = new HeaderView();
+            headerView.render();
         },
 
         index: function() {
             if (!this.dashboardView) {
-                this.dashboardView = new DashboardView();
+                this.pickorders = new Pickorders();
+                this.dashboardView = new DashboardView({
+                    pickorders: this.pickorders
+                });
             }
             this.dashboardView.render();
+            this.pickorders.fetch();
         },
 
         cards: function() {

@@ -2,10 +2,10 @@ define(function(require) {
 
     var $ = require('jquery');
     var Backbone = require('backbone');
-    var CardView = require('views/cardView');
+    var CardView = require('views/card/card');
 
     var CardsView = Backbone.View.extend({
-        el: $("#main"),
+        el: $("section.content"),
         template: "<ul id='card-list'></ul>",
 
         initialize: function() {
