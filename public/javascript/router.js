@@ -3,14 +3,14 @@ define(function(require) {
     var Backbone = require('backbone');
     var HeaderView = require('views/header');
     var Pickorders = require('models/pickorders');
-    var Cards = require('models/cards');
     var DashboardView = require('views/dashboard');
-    var CardsView = require('views/card/cards');
+    var Pickorder = require('models/pickorder');
+    var PickorderView = require('views/pickorder/pickorder')
 
     var AppRouter = Backbone.Router.extend({
         routes: {
-            "": "index",
-            "cards": "cards"
+            "":                 "dashboard",
+            "pickorders/:id":   "pickorder"
         },
 
         initialize: function() {
@@ -18,26 +18,20 @@ define(function(require) {
             headerView.render();
         },
 
-        index: function() {
-            if (!this.dashboardView) {
-                this.pickorders = new Pickorders();
-                this.dashboardView = new DashboardView({
-                    pickorders: this.pickorders
-                });
-            }
-            this.dashboardView.render();
-            this.pickorders.fetch();
+        dashboard: function() {
+            var pickorders = new Pickorders();
+            var dashboardView = new DashboardView({ pickorders: pickorders });
+            dashboardView.render();
+            pickorders.fetch();
         },
 
-        cards: function() {
-            if (!this.cardsView) {
-                this.cardCollection = new Cards();
-                this.cardsView = new CardsView({
-                    collection: this.cardCollection
-                });
-            }
-            this.cardCollection.fetch({reset: true});
+        pickorder: function(id) {
+            var pickorder = new Pickorder({ id: id});
+            pickorder.fetch({async: false});
+            var pickorderView = new PickorderView({ model: pickorder });
+            pickorderView.render();
         }
+
     });
 
     return AppRouter;

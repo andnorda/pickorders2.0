@@ -20,8 +20,8 @@ public class PickorderService {
     @Autowired
     private CardRepository cardRepository;
 
-    public void createPickorder() {
-        Pickorder pickorder = pickorderRepository.createPickorder("all");
+    public void createPickorder(String name) {
+        Pickorder pickorder = pickorderRepository.createPickorder(name);
         List<Card> cards = cardRepository.getAll();
         int count = 1;
         for (Card card : cards) {

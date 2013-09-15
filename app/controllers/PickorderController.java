@@ -16,7 +16,8 @@ public class PickorderController extends Controller {
     private PickorderService pickorderService;
 
     public Result createPickorder() {
-        pickorderService.createPickorder();
+        pickorderService.createPickorder("all");
+        pickorderService.createPickorder("test");
         return ok("Success");
     }
 

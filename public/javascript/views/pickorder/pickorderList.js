@@ -8,7 +8,7 @@ define(function(require) {
         tagName: 'ul',
 
         initialize: function() {
-            this.listenTo(this.collection, "reset", this.render);
+            this.listenTo(this.collection, "reset", this.addAll());
             this.listenTo(this.collection, "add", this.addOne);
         },
 
@@ -16,8 +16,8 @@ define(function(require) {
             this.collection.forEach(this.addOne, this);
         },
 
-        addOne: function(card) {
-            var view = new PickorderListItemView({model: card});
+        addOne: function(pickorderListItem) {
+            var view = new PickorderListItemView({model: pickorderListItem});
             this.$el.append(view.render().el);
         },
 
