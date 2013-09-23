@@ -4,6 +4,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 import play.data.validation.Constraints;
 import play.db.ebean.Model;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
@@ -31,7 +32,7 @@ public class Card extends Model {
     private String rarity;
 
     @JsonIgnore
-    @OneToMany
+    @OneToMany (cascade = CascadeType.ALL)
     private List<PickorderCard> pickorders;
 
     public Long getId() {

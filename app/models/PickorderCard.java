@@ -14,10 +14,12 @@ public class PickorderCard extends Model {
     @Constraints.Required
     private Integer rank;
 
+    @Id
     @ManyToOne
     @PrimaryKeyJoinColumn(name="CARDID", referencedColumnName="ID")
     private Card card;
 
+    @Id
     @JsonIgnore
     @ManyToOne
     @PrimaryKeyJoinColumn(name="PICKORDERID", referencedColumnName="ID")

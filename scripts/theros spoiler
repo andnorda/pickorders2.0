@@ -1,0 +1,1814 @@
+Name	Abhorrent Overlord
+Cost:	 5BB
+Type:	 Creature — Demon
+Pow/Tgh:	 (6/6)
+Rules Text:	 Flying
+When Abhorrent Overlord enters the battlefield, put a number of 1/1 black Harpy creature tokens with flying onto the battlefield equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+At the beginning of your upkeep, sacrifice a creature.
+Set/Rarity:	 Theros Rare
+
+Name	Agent of Horizons
+Cost:	 2G
+Type:	 Creature — Human Rogue
+Pow/Tgh:	 (3/2)
+Rules Text:	 {2}{U}: Agent of Horizons can't be blocked this turn.
+Set/Rarity:	 Theros Common
+
+Name	Agent of the Fates
+Cost:	 1BB
+Type:	 Creature — Human Assassin
+Pow/Tgh:	 (3/2)
+Rules Text:	 Deathtouch
+Heroic — Whenever you cast a spell that targets Agent of the Fates, each opponent sacrifices a creature.
+Set/Rarity:	 Theros Rare
+
+Name	Akroan Crusader
+Cost:	 R
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (1/1)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red Soldier creature token with haste onto the battlefield.
+Set/Rarity:	 Theros Common
+
+Name	Akroan Hoplite
+Cost:	 RW
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (1/2)
+Rules Text:	 Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control.
+Set/Rarity:	 Theros Uncommon
+
+Name	Akroan Horse
+Cost:	 4
+Type:	 Artifact Creature — Horse
+Pow/Tgh:	 (0/4)
+Rules Text:	 Defender
+When Akroan Horse enters the battlefield, an opponent gains control of it.
+At the beginning of your upkeep, each opponent puts a 1/1 white Soldier creature token onto the battlefield.
+Set/Rarity:	 Theros Rare
+
+Name	Anax and Cymede
+Cost:	 1RW
+Type:	 Legendary Creature — Human Soldier
+Pow/Tgh:	 (3/2)
+Rules Text:	 First strike, vigilance
+Heroic — Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn.
+Set/Rarity:	 Theros Rare
+
+Name	Anger of the Gods
+Cost:	 1RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Anger of the Gods deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.
+Set/Rarity:	 Theros Rare
+
+Name	Annul
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target artifact or enchantment spell.
+Set/Rarity:	 Theros Common
+
+Name	Anthousa, Setessan Hero
+Cost:	 3GG
+Type:	 Legendary Creature — Human Warrior
+Pow/Tgh:	 (4/5)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Anthousa, Setessan Hero, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They're still lands.
+Set/Rarity:	 Theros Rare
+
+Name	Anvilwrought Raptor
+Cost:	 4
+Type:	 Artifact Creature — Bird
+Pow/Tgh:	 (2/1)
+Rules Text:	 Flying, first strike
+Set/Rarity:	 Theros Uncommon
+
+Name	Aqueous Form
+Cost:	 U
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature can't be blocked.
+Whenever enchanted creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Common
+
+Name	Arbor Colossus
+Cost:	 2GGG
+Type:	 Creature — Giant
+Pow/Tgh:	 (6/6)
+Rules Text:	 Reach
+{3}{G}{G}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Arbor Colossus becomes monstrous, destroy target creature with flying an opponent controls.
+Set/Rarity:	 Theros Rare
+
+Name	Arena Athlete
+Cost:	 1R
+Type:	 Creature — Human
+Pow/Tgh:	 (2/1)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Arena Athlete, target creature an opponent controls can't block this turn.
+Set/Rarity:	 Theros Uncommon
+
+Name	Artisan of Forms
+Cost:	 1U
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (1/1)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Artisan of Forms, you may have Artisan of Forms become a copy of target creature and gain this ability.
+Set/Rarity:	 Theros Rare
+
+Name	Artisan's Sorrow
+Cost:	 3G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or enchantment. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity:	 Theros Uncommon
+
+Name	Ashen Rider
+Cost:	 4WWBB
+Type:	 Creature — Archon
+Pow/Tgh:	 (5/5)
+Rules Text:	 Flying
+When Ashen Rider enters the battlefield or dies, exile target permanent.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Ashiok, Nightmare Weaver
+Cost:	 1UB
+Type:	 Planeswalker — Ashiok
+Loyalty:	 (3)
+Rules Text:	 +2: Exile the top three cards of target opponent's library.
+-X: Put a creature card with converted mana cost X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types.
+-10: Exile all cards from all opponents' hands and graveyards.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Asphodel Wanderer
+Cost:	 B
+Type:	 Creature — Skeleton Soldier
+Pow/Tgh:	 (1/1)
+Rules Text:	 {2}{B}: Regenerate Asphodel Wanderer.
+Set/Rarity:	 Theros Common
+
+Name	Baleful Eidolon
+Cost:	 1B
+Type:	 Enchantment Creature — Spirit
+Pow/Tgh:	 (1/1)
+Rules Text:	 Bestow {4}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.) 
+Enchanted creature gets +1/+1 and has deathtouch.
+Set/Rarity:	 Theros Common
+
+Name	Battlewise Hoplite
+Cost:	 WU
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Battlewise Hoplite, put a +1/+1 counter on Battlewise Hoplite, then scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Uncommon
+
+Name	Battlewise Valor
+Cost:	 1W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +2/+2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Common
+
+Name	Benthic Giant
+Cost:	 5U
+Type:	 Creature — Giant
+Pow/Tgh:	 (4/5)
+Rules Text:	 Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Set/Rarity:	 Theros Common
+
+Name	Bident of Thassa
+Cost:	 2UU
+Type:	 Legendary Enchantment Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever a creature you control deals combat damage to a player, you may draw a card.
+{1}{U}, {T}: Creatures your opponents control attack this turn if able.
+Set/Rarity:	 Theros Rare
+
+Name	Blood-Toll Harpy
+Cost:	 2B
+Type:	 Creature — Harpy
+Pow/Tgh:	 (2/1)
+Rules Text:	 Flying
+When Blood-Toll Harpy enters the battlefield, each player loses 1 life.
+Set/Rarity:	 Theros Common
+
+Name	Boon of Erebos
+Cost:	 B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +2/+0 until end of turn. Regenerate it. You lose 2 life.
+Set/Rarity:	 Theros Common
+
+Name	Boon Satyr
+Cost:	 1GG
+Type:	 Enchantment Creature — Satyr
+Pow/Tgh:	 (4/2)
+Rules Text:	 Flash
+Bestow {3}{G}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Enchanted creature gets +4/+2.
+Set/Rarity:	 Theros Rare
+
+Name	Borderland Minotaur
+Cost:	 2RR
+Type:	 Creature — Minotaur Warrior
+Pow/Tgh:	 (4/3)
+Rules Text:	
+Set/Rarity:	 Theros Common
+
+Name	Boulderfall
+Cost:	 6RR
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Boulderfall deals 5 damage divided as you choose among any number of target creatures and/or players.
+Set/Rarity:	 Theros Common
+
+Name	Bow of Nylea
+Cost:	 1GG
+Type:	 Legendary Enchantment Artifact
+Pow/Tgh:	
+Rules Text:	 Attacking creatures you control have deathtouch.
+{1}{G}, {T}: Choose one — Put a +1/+1 counter on target creature; or Bow of Nylea deals 2 damage to target creature with flying; or you gain 3 life; or put up to four target cards from your graveyard on the bottom of your library in any order.
+Set/Rarity:	 Theros Rare
+
+Name	Breaching Hippocamp
+Cost:	 3U
+Type:	 Creature — Horse Fish
+Pow/Tgh:	 (3/2)
+Rules Text:	 Flash (You may cast this spell any time you could cast an instant.)
+When Breaching Hippocamp enters the battlefield, untap another target creature you control.
+Set/Rarity:	 Theros Common
+
+Name	Bronze Sable
+Cost:	 2
+Type:	 Artifact Creature — Sable
+Pow/Tgh:	 (2/1)
+Rules Text:	
+Set/Rarity:	 Theros Common
+
+Name	Burnished Hart
+Cost:	 3
+Type:	 Artifact Creature — Elk
+Pow/Tgh:	 (2/2)
+Rules Text:	 {3}, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+Set/Rarity:	 Theros Uncommon
+
+Name	Cavalry Pegasus
+Cost:	 1W
+Type:	 Creature — Pegasus
+Pow/Tgh:	 (1/1)
+Rules Text:	 Flying
+Whenever Cavalry Pegasus attacks, each attacking Human gains flying until end of turn.
+Set/Rarity:	 Theros Common
+
+Name	Cavern Lampad
+Cost:	 3B
+Type:	 Enchantment Creature — Nymph
+Pow/Tgh:	 (2/2)
+Rules Text:	 Bestow {5}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Intimidate
+Enchanted creature gets +2/+2 and has intimidate.
+Set/Rarity:	 Theros Common
+
+Name	Celestial Archon
+Cost:	 3WW
+Type:	 Enchantment Creature — Archon
+Pow/Tgh:	 (4/4)
+Rules Text:	 Bestow {5}{W}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Flying, first strike
+Enchanted creature gets +4/+4 and has flying and first strike.
+Set/Rarity:	 Theros Rare
+
+Name	Centaur Battlemaster
+Cost:	 3GG
+Type:	 Creature — Centaur Warrior
+Pow/Tgh:	 (3/3)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Centaur Battlemaster, put three +1/+1 counters on Centaur Battlemaster.
+Set/Rarity:	 Theros Uncommon
+
+Name	Chained to the Rocks
+Cost:	 W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant Mountain you control
+When Chained to the Rocks enters the battlefield, exile target creature an opponent controls until Chained to the Rocks leaves the battlefield. (That creature returns under its owner's control.)
+Set/Rarity:	 Theros Rare
+
+Name	Chosen by Heliod
+Cost:	 1W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+When Chosen by Heliod enters the battlefield, draw a card.
+Enchanted creature gets +0/+2.
+Set/Rarity:	 Theros Common
+
+Name	Chronicler of Heroes
+Cost:	 1GW
+Type:	 Creature — Centaur Wizard
+Pow/Tgh:	 (3/3)
+Rules Text:	 When Chronicler of Heroes enters the battlefield, draw a card if you control a creature with a +1/+1 counter on it.
+Set/Rarity:	 Theros Uncommon
+
+Name	Coastline Chimera
+Cost:	 3U
+Type:	 Creature — Chimera
+Pow/Tgh:	 (1/5)
+Rules Text:	 Flying
+{1}{W}: Coastline Chimera can block an additional creature this turn.
+Set/Rarity:	 Theros Common
+
+Name	Colossus of Akros
+Cost:	 8
+Type:	 Artifact Creature — Golem
+Pow/Tgh:	 (10/10)
+Rules Text:	 Defender, indestructible
+{1}0}: Monstrosity 10. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)
+As long as Colossus of Akros is monstrous, it has trample and can attack as though it didn't have defender.
+Set/Rarity:	 Theros Rare
+
+Name	Commune with the Gods
+Cost:	 1G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Reveal the top five cards of your library. You may put a creature or enchantment card from among them into your hand. Put the rest into your graveyard.
+Set/Rarity:	 Theros Common
+
+Name	Coordinated Assault
+Cost:	 R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Up to two target creatures each get +1/+0 and gain first strike until end of turn.
+Set/Rarity:	 Theros Uncommon
+
+Name	Crackling Triton
+Cost:	 2U
+Type:	 Creature — Merfolk Wizard
+Pow/Tgh:	 (2/3)
+Rules Text:	 {2}{R}, Sacrifice Crackling Triton: Crackling Triton deals 2 damage to target creature or player.
+Set/Rarity:	 Theros Common
+
+Name	Curse of the Swine
+Cost:	 XUU
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Exile X target creatures. For each creature exiled this way, its controller puts a 2/2 green Boar creature token onto the battlefield.
+Set/Rarity:	 Theros Rare
+
+Name	Cutthroat Maneuver
+Cost:	 3B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Up to two target creatures each get +1/+1 and gain lifelink until end of turn.
+Set/Rarity:	 Theros Uncommon
+
+Name	Dark Betrayal
+Cost:	 B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target black creature.
+Set/Rarity:	 Theros Uncommon
+
+Name	Dauntless Onslaught
+Cost:	 2W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Up to two target creatures each get +2/+2 until end of turn.
+Set/Rarity:	 Theros Uncommon
+
+Name	Daxos of Meletis
+Cost:	 1WU
+Type:	 Legendary Creature — Human Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Daxos of Meletis can't be blocked by creatures with power 3 or greater.
+Whenever Daxos of Meletis deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's converted mana cost. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast it.
+Set/Rarity:	 Theros Rare
+
+Name	Deathbellow Raider
+Cost:	 1R
+Type:	 Creature — Minotaur Berserker
+Pow/Tgh:	 (2/3)
+Rules Text:	 Deathbellow Raider attacks each turn if able.
+{2}{B}: Regenerate Deathbellow Raider.
+Set/Rarity:	 Theros Common
+
+Name	Decorated Griffin
+Cost:	 4W
+Type:	 Creature — Griffin
+Pow/Tgh:	 (2/3)
+Rules Text:	 Flying
+{1}{W}: Prevent the next 1 combat damage that would be dealt to you this turn.
+Set/Rarity:	 Theros Uncommon
+
+Name	Defend the Hearth
+Cost:	 1G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Prevent all combat damage that would be dealt to players this turn.
+Set/Rarity:	 Theros Common
+
+Name	Demolish
+Cost:	 3R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or land.
+Set/Rarity:	 Theros Common
+
+Name	Destructive Revelry
+Cost:	 RG
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.
+Set/Rarity:	 Theros Uncommon
+
+Name	Disciple of Phenax
+Cost:	 2BB
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (1/3)
+Rules Text:	 When Disciple of Phenax enters the battlefield, target player reveals a number of cards from his or her hand equal to your devotion to black. You choose one of them. That player discards that card. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+Set/Rarity:	 Theros Common
+
+Name	Dissolve
+Cost:	 1UU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target spell. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Uncommon
+
+Name	Divine Verdict
+Cost:	 3W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target attacking or blocking creature.
+Set/Rarity:	 Theros Common
+
+Name	Dragon Mantle
+Cost:	 R
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+When Dragon Mantle enters the battlefield, draw a card.
+Enchanted creature has "{R}: This creature gets +1/+0 until end of turn."
+Set/Rarity:	 Theros Common
+
+Name	Elspeth, Sun's Champion
+Cost:	 4WW
+Type:	 Planeswalker — Elspeth
+Loyalty:	 (4)
+Rules Text:	 +1: Put three 1/1 white Soldier creature tokens onto the battlefield.
+-3: Destroy all creatures with power 4 or greater.
+-7: You get an emblem with "Creatures you control get +2/+2 and have flying."
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Ember Swallower
+Cost:	 2RR
+Type:	 Creature — Elemental
+Pow/Tgh:	 (4/5)
+Rules Text:	 {5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Ember Swallower becomes monstrous, each player sacrifices three lands.
+Set/Rarity:	 Theros Rare
+
+Name	Ephara's Warden
+Cost:	 3W
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (1/2)
+Rules Text:	 {T}: Tap target creature with power 3 or less.
+Set/Rarity:	 Theros Common
+
+Name	Erebos, God of the Dead
+Cost:	 3B
+Type:	 Legendary Enchantment Creature — God
+Pow/Tgh:	 (5/7)
+Rules Text:	 Indestructible
+As long as your devotion to black is less than five, Erebos isn't a creature. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+Your opponents can't gain life.
+{1}{B}, Pay 2 life: Draw a card.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Erebos's Emissary
+Cost:	 3B
+Type:	 Enchantment Creature — Snake
+Pow/Tgh:	 (3/3)
+Rules Text:	 Bestow {5}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Discard a creature card: Erebos's Emissary gets +2/+2 until end of turn. If Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of turn instead.
+Enchanted creature gets +3/+3.
+Set/Rarity:	 Theros Uncommon
+
+Name	Evangel of Heliod
+Cost:	 4WW
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (1/3)
+Rules Text:	 When Evangel of Heliod enters the battlefield, put a number of 1/1 white Soldier creature tokens onto the battlefield equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
+Set/Rarity:	 Theros Uncommon
+
+Name	Fabled Hero
+Cost:	 1WW
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Double strike
+Heroic — Whenever you cast a spell that targets Fabled Hero, put a +1/+1 counter on Fabled Hero.
+Set/Rarity:	 Theros Rare
+
+Name	Fade into Antiquity
+Cost:	 2G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Exile target artifact or enchantment.
+Set/Rarity:	 Theros Common
+
+Name	Fanatic of Mogis
+Cost:	 3R
+Type:	 Creature — Minotaur Shaman
+Pow/Tgh:	 (4/2)
+Rules Text:	 When Fanatic of Mogis enters the battlefield, it deals damage to each opponent equal to your devotion to red. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)
+Set/Rarity:	 Theros Uncommon
+
+Name	Fate Foretold
+Cost:	 1U
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+When Fate Foretold enters the battlefield, draw a card.
+When enchanted creature dies, its controller draws a card.
+Set/Rarity:	 Theros Common
+
+Name	Favored Hoplite
+Cost:	 W
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (1/2)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Favored Hoplite, put a +1/+1 counter on Favored Hoplite and prevent all damage that would be dealt to it this turn.
+Set/Rarity:	 Theros Uncommon
+
+Name	Felhide Minotaur
+Cost:	 2B
+Type:	 Creature — Minotaur
+Pow/Tgh:	 (2/3)
+Rules Text:	
+Set/Rarity:	 Theros Common
+
+Name	Feral Invocation
+Cost:	 2G
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +2/+2.
+Set/Rarity:	 Theros Common
+
+Name	Firedrinker Satyr
+Cost:	 R
+Type:	 Creature — Satyr Shaman
+Pow/Tgh:	 (2/1)
+Rules Text:	 Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you.
+{1}{R}: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you.
+Set/Rarity:	 Theros Rare
+
+Name	Flamecast Wheel
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {5}, {T}, Sacrifice Flamecast Wheel: Flamecast Wheel deals 3 damage to target creature.
+Set/Rarity:	 Theros Uncommon
+
+Name	Flamespeaker Adept
+Cost:	 2R
+Type:	 Creature — Human Shaman
+Pow/Tgh:	 (2/3)
+Rules Text:	 Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike until end of turn.
+Set/Rarity:	 Theros Uncommon
+
+Name	Fleecemane Lion
+Cost:	 GW
+Type:	 Creature — Cat
+Pow/Tgh:	 (3/3)
+Rules Text:	 {3}{G}{W}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+As long as Fleecemane Lion is monstrous, it has hexproof and indestructible.
+Set/Rarity:	 Theros Rare
+
+Name	Fleetfeather Sandals
+Cost:	 2
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature has flying and haste.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	 Theros Common
+
+Name	Fleshmad Steed
+Cost:	 1B
+Type:	 Creature — Horse
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever another creature dies, tap Fleshmad Steed.
+Set/Rarity:	 Theros Common
+
+Name	Forest
+Cost:	
+Type:	 Basic Land — Forest
+Pow/Tgh:	
+Rules Text:	 G
+Set/Rarity:	 Theros Land, Theros Land, Theros Land, Theros Land
+
+Name	Gainsay
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target blue spell.
+Set/Rarity:	 Theros Uncommon
+
+Name	Gift of Immortality
+Cost:	 2W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+When enchanted creature dies, return that card to the battlefield under its owner's control. Return Gift of Immortality to the battlefield attached to that creature at the beginning of the next end step.
+Set/Rarity:	 Theros Rare
+
+Name	Glare of Heresy
+Cost:	 1W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Exile target white permanent.
+Set/Rarity:	 Theros Uncommon
+
+Name	Gods Willing
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature you control gains protection from the color of your choice until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Common
+
+Name	Gray Merchant of Asphodel
+Cost:	 3BB
+Type:	 Creature — Zombie
+Pow/Tgh:	 (2/4)
+Rules Text:	 When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+Set/Rarity:	 Theros Common
+
+Name	Griptide
+Cost:	 3U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Put target creature on top of its owner's library.
+Set/Rarity:	 Theros Common
+
+Name	Guardians of Meletis
+Cost:	 3
+Type:	 Artifact Creature — Golem
+Pow/Tgh:	 (0/6)
+Rules Text:	 Defender
+Set/Rarity:	 Theros Common
+
+Name	Hammer of Purphoros
+Cost:	 1RR
+Type:	 Legendary Enchantment Artifact
+Pow/Tgh:	
+Rules Text:	 Creatures you control have haste.
+{2}{R}, {T}, Sacrifice a land: Put a 3/3 colorless Golem enchantment artifact creature token onto the battlefield.
+Set/Rarity:	 Theros Rare
+
+Name	Heliod, God of the Sun
+Cost:	 3W
+Type:	 Legendary Enchantment Creature — God
+Pow/Tgh:	 (5/6)
+Rules Text:	 Indestructible
+As long as your devotion to white is less than five, Heliod isn't a creature. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
+Other creatures you control have vigilance.
+{2}{W}{W}: Put a 2/1 white Cleric enchantment creature token onto the battlefield.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Heliod's Emissary
+Cost:	 3W
+Type:	 Enchantment Creature — Elk
+Pow/Tgh:	 (3/3)
+Rules Text:	 Bestow {6}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Whenever Heliod's Emissary or enchanted creature attacks, tap target creature an opponent controls.
+Enchanted creature gets +3/+3.
+Set/Rarity:	 Theros Uncommon
+
+Name	Hero's Downfall
+Cost:	 1BB
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target creature or planeswalker.
+Set/Rarity:	 Theros Rare
+
+Name	Hopeful Eidolon
+Cost:	 W
+Type:	 Enchantment Creature — Spirit
+Pow/Tgh:	 (1/1)
+Rules Text:	 Bestow {3}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Enchanted creature gets +1/+1 and has lifelink.
+Set/Rarity:	 Theros Common
+
+Name	Horizon Chimera
+Cost:	 2GU
+Type:	 Creature — Chimera
+Pow/Tgh:	 (3/2)
+Rules Text:	 Flash (You may cast this spell any time you could cast an instant.)
+Flying, trample
+Whenever you draw a card, you gain 1 life.
+Set/Rarity:	 Theros Uncommon
+
+Name	Horizon Scholar
+Cost:	 5U
+Type:	 Creature — Sphinx
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying
+When Horizon Scholar enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity:	 Theros Uncommon
+
+Name	Hundred-Handed One
+Cost:	 2WW
+Type:	 Creature — Giant
+Pow/Tgh:	 (3/5)
+Rules Text:	 Vigilance 
+{3}{W}{W}{W}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+As long as Hundred-Handed One is monstrous, it has reach and can block an additional ninety-nine creatures each combat.
+Set/Rarity:	 Theros Rare
+
+Name	Hunt the Hunter
+Cost:	 G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target green creature you control gets +2/+2 until end of turn. It fights target green creature an opponent controls.
+Set/Rarity:	 Theros Uncommon
+
+Name	Hythonia the Cruel
+Cost:	 4BB
+Type:	 Legendary Creature — Gorgon
+Pow/Tgh:	 (4/6)
+Rules Text:	 Deathtouch
+{6}{B}{B}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Hythonia the Cruel becomes monstrous, destroy all non-Gorgon creatures.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Ill-Tempered Cyclops
+Cost:	 3R
+Type:	 Creature — Cyclops
+Pow/Tgh:	 (3/3)
+Rules Text:	 Trample
+{5}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+Set/Rarity:	 Theros Common
+
+Name	Insatiable Harpy
+Cost:	 2BB
+Type:	 Creature — Harpy
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying, lifelink
+Set/Rarity:	 Theros Uncommon
+
+Name	Island
+Cost:	
+Type:	 Basic Land — Island
+Pow/Tgh:	
+Rules Text:	 U
+Set/Rarity:	 Theros Land, Theros Land, Theros Land, Theros Land
+
+Name	Karametra's Acolyte
+Cost:	 3G
+Type:	 Creature — Human Druid
+Pow/Tgh:	 (1/4)
+Rules Text:	 {T}: Add an amount of {G} to your mana pool equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+Set/Rarity:	 Theros Uncommon
+
+Name	Keepsake Gorgon
+Cost:	 3BB
+Type:	 Creature — Gorgon
+Pow/Tgh:	 (2/5)
+Rules Text:	 Deathtouch
+{5}{B}{B}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+When Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature an opponent controls.
+Set/Rarity:	 Theros Uncommon
+
+Name	Kragma Warcaller
+Cost:	 3BR
+Type:	 Creature — Minotaur Warrior
+Pow/Tgh:	 (2/3)
+Rules Text:	 Minotaur creatures you control have haste.
+Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn.
+Set/Rarity:	 Theros Uncommon
+
+Name	Labyrinth Champion
+Cost:	 3R
+Type:	 Creature — Human Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Labyrinth Champion, Labyrinth Champion deals 2 damage to target creature or player.
+Set/Rarity:	 Theros Rare
+
+Name	Lagonna-Band Elder
+Cost:	 2W
+Type:	 Creature — Centaur Advisor
+Pow/Tgh:	 (3/2)
+Rules Text:	 When Lagonna-Band Elder enters the battlefield, if you control an enchantment, you gain 3 life.
+Set/Rarity:	 Theros Common
+
+Name	Lash of the Whip
+Cost:	 4B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets -4/-4 until end of turn.
+Set/Rarity:	 Theros Common
+
+Name	Last Breath
+Cost:	 1W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Exile target creature with power 2 or less. Its controller gains 4 life.
+Set/Rarity:	 Theros Common
+
+Name	Leafcrown Dryad
+Cost:	 1G
+Type:	 Enchantment Creature — Nymph Dryad
+Pow/Tgh:	 (2/2)
+Rules Text:	 Bestow {3}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Reach
+Enchanted creature gets +2/+2 and has reach.
+Set/Rarity:	 Theros Common
+
+Name	Leonin Snarecaster
+Cost:	 1W
+Type:	 Creature — Cat Soldier
+Pow/Tgh:	 (2/1)
+Rules Text:	 When Leonin Snarecaster enters the battlefield, you may tap target creature.
+Set/Rarity:	 Theros Common
+
+Name	Lightning Strike
+Cost:	 1R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Lightning Strike deals 3 damage to target creature or player.
+Set/Rarity:	 Theros Common
+
+Name	Loathsome Catoblepas
+Cost:	 5B
+Type:	 Creature — Beast
+Pow/Tgh:	 (3/3)
+Rules Text:	 {2}{G}: Loathsome Catoblepas must be blocked this turn if able.
+When Loathsome Catoblepas dies, target creature an opponent controls gets -3/-3 until end of turn.
+Set/Rarity:	 Theros Common
+
+Name	Lost in a Labyrinth
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets -3/-0 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Common
+
+Name	Magma Jet
+Cost:	 1R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Magma Jet deals 2 damage to target creature or player. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity:	 Theros Uncommon
+
+Name	March of the Returned
+Cost:	 3B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Return up to two target creature cards from your graveyard to your hand.
+Set/Rarity:	 Theros Common
+
+Name	Master of Waves
+Cost:	 3U
+Type:	 Creature — Merfolk Wizard
+Pow/Tgh:	 (2/1)
+Rules Text:	 Protection from red
+Elemental creatures you control get +1/+1.
+When Master of Waves enters the battlefield, put a number of 1/0 blue Elemental creature tokens onto the battlefield equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Medomai the Ageless
+Cost:	 4WU
+Type:	 Legendary Creature — Sphinx
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying
+Whenever Medomai the Ageless deals combat damage to a player, take an extra turn after this one.
+Medomai the Ageless can't attack during extra turns.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Meletis Charlatan
+Cost:	 2U
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (2/3)
+Rules Text:	 {2}{U}, {T}: The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.
+Set/Rarity:	 Theros Rare
+
+Name	Messenger's Speed
+Cost:	 R
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature has trample and haste.
+Set/Rarity:	 Theros Common
+
+Name	Minotaur Skullcleaver
+Cost:	 2R
+Type:	 Creature — Minotaur Berserker
+Pow/Tgh:	 (2/2)
+Rules Text:	 Haste
+When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end of turn.
+Set/Rarity:	 Theros Common
+
+Name	Mistcutter Hydra
+Cost:	 XG
+Type:	 Creature — Hydra
+Pow/Tgh:	 (0/0)
+Rules Text:	 Mistcutter Hydra can't be countered.
+Haste, protection from blue
+Mistcutter Hydra enters the battlefield with X +1/+1 counters on it.
+Set/Rarity:	 Theros Rare
+
+Name	Mnemonic Wall
+Cost:	 4U
+Type:	 Creature — Wall
+Pow/Tgh:	 (0/4)
+Rules Text:	 Defender
+When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+Set/Rarity:	 Theros Common
+
+Name	Mogis's Marauder
+Cost:	 2B
+Type:	 Creature — Human Berserker
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Mogis's Marauder enters the battlefield, up to X target creatures each gain intimidate and haste until end of turn, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+Set/Rarity:	 Theros Uncommon
+
+Name	Mountain
+Cost:	
+Type:	 Basic Land — Mountain
+Pow/Tgh:	
+Rules Text:	 R
+Set/Rarity:	 Theros Land, Theros Land, Theros Land, Theros Land
+
+Name	Nemesis of Mortals
+Cost:	 4GG
+Type:	 Creature — Snake
+Pow/Tgh:	 (5/5)
+Rules Text:	 Nemesis of Mortals costs {1} less to cast for each creature card in your graveyard.
+{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each creature card in your graveyard. (If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)
+Set/Rarity:	 Theros Uncommon
+
+Name	Nessian Asp
+Cost:	 4G
+Type:	 Creature — Snake
+Pow/Tgh:	 (4/5)
+Rules Text:	 Reach
+{6}{G}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)
+Set/Rarity:	 Theros Common
+
+Name	Nessian Courser
+Cost:	 2G
+Type:	 Creature — Centaur Warrior
+Pow/Tgh:	 (3/3)
+Rules Text:	
+Set/Rarity:	 Theros Common
+
+Name	Nighthowler
+Cost:	 1BB
+Type:	 Enchantment Creature — Horror
+Pow/Tgh:	 (0/0)
+Rules Text:	 Bestow {2}{B}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.
+Set/Rarity:	 Theros Rare
+
+Name	Nimbus Naiad
+Cost:	 2U
+Type:	 Enchantment Creature — Nymph
+Pow/Tgh:	 (2/2)
+Rules Text:	 Bestow {4}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Flying
+Enchanted creature gets +2/+2 and has flying.
+Set/Rarity:	 Theros Common
+
+Name	Nykthos, Shrine to Nyx
+Cost:	
+Type:	 Legendary Land
+Pow/Tgh:	
+Rules Text:	 {T}: Add {1} to your mana pool.
+{2}, {T}: Choose a color. Add to your mana pool an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)
+Set/Rarity:	 Theros Rare
+
+Name	Nylea, God of the Hunt
+Cost:	 3G
+Type:	 Legendary Enchantment Creature — God
+Pow/Tgh:	 (6/6)
+Rules Text:	 Indestructible
+As long as your devotion to green is less than five, Nylea isn't a creature. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+Other creatures you control have trample.
+{3}{G}: Target creature gets +2/+2 until end of turn.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Nylea's Disciple
+Cost:	 2GG
+Type:	 Creature — Centaur Archer
+Pow/Tgh:	 (3/3)
+Rules Text:	 When Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+Set/Rarity:	 Theros Common
+
+Name	Nylea's Emissary
+Cost:	 3G
+Type:	 Enchantment Creature — Cat
+Pow/Tgh:	 (3/3)
+Rules Text:	 Bestow {5}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Trample
+Enchanted creature gets +3/+3 and has trample.
+Set/Rarity:	 Theros Uncommon
+
+Name	Nylea's Presence
+Cost:	 1G
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant land
+When Nylea's Presence enters the battlefield, draw a card.
+Enchanted land is every basic land type in addition to its other types.
+Set/Rarity:	 Theros Common
+
+Name	Observant Alseid
+Cost:	 2W
+Type:	 Enchantment Creature — Nymph
+Pow/Tgh:	 (2/2)
+Rules Text:	 Bestow {4}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Vigilance
+Enchanted creature gets +2/+2 and has vigilance.
+Set/Rarity:	 Theros Common
+
+Name	Omenspeaker
+Cost:	 1U
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (1/3)
+Rules Text:	 When Omenspeaker enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity:	 Theros Common
+
+Name	Opaline Unicorn
+Cost:	 3
+Type:	 Artifact Creature — Unicorn
+Pow/Tgh:	 (1/2)
+Rules Text:	 {T}: Add one mana of any color to your mana pool.
+Set/Rarity:	 Theros Common
+
+Name	Ordeal of Erebos
+Cost:	 1B
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos.
+When you sacrifice Ordeal of Erebos, target player discards two cards.
+Set/Rarity:	 Theros Uncommon
+
+Name	Ordeal of Heliod
+Cost:	 1W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod.
+When you sacrifice Ordeal of Heliod, you gain 10 life.
+Set/Rarity:	 Theros Uncommon
+
+Name	Ordeal of Nylea
+Cost:	 1G
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea.
+When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+Set/Rarity:	 Theros Uncommon
+
+Name	Ordeal of Purphoros
+Cost:	 1R
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros.
+When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature or player.
+Set/Rarity:	 Theros Uncommon
+
+Name	Ordeal of Thassa
+Cost:	 1U
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Thassa.
+When you sacrifice Ordeal of Thassa, draw two cards.
+Set/Rarity:	 Theros Uncommon
+
+Name	Peak Eruption
+Cost:	 2R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target Mountain. Peak Eruption deals 3 damage to that land's controller.
+Set/Rarity:	 Theros Uncommon
+
+Name	Phalanx Leader
+Cost:	 WW
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (1/1)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control.
+Set/Rarity:	 Theros Uncommon
+
+Name	Pharika's Cure
+Cost:	 BB
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Pharika's Cure deals 2 damage to target creature and you gain 2 life.
+Set/Rarity:	 Theros Common
+
+Name	Pharika's Mender
+Cost:	 3BG
+Type:	 Creature — Gorgon
+Pow/Tgh:	 (4/3)
+Rules Text:	 When Pharika's Mender enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand.
+Set/Rarity:	 Theros Uncommon
+
+Name	Pheres-Band Centaurs
+Cost:	 4G
+Type:	 Creature — Centaur Warrior
+Pow/Tgh:	 (3/7)
+Rules Text:	
+Set/Rarity:	 Theros Common
+
+Name	Plains
+Cost:	
+Type:	 Basic Land — Plains
+Pow/Tgh:	
+Rules Text:	 W
+Set/Rarity:	 Theros Land, Theros Land, Theros Land, Theros Land
+
+Name	Polis Crusher
+Cost:	 2RG
+Type:	 Creature — Cyclops
+Pow/Tgh:	 (4/4)
+Rules Text:	 Trample, protection from enchantments
+{4}{R}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is monstrous, destroy target enchantment that player controls.
+Set/Rarity:	 Theros Rare
+
+Name	Polukranos, World Eater
+Cost:	 2GG
+Type:	 Legendary Creature — Hydra
+Pow/Tgh:	 (5/5)
+Rules Text:	 {X}{X}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)
+When Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Portent of Betrayal
+Cost:	 3R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Common
+
+Name	Prescient Chimera
+Cost:	 3UU
+Type:	 Creature — Chimera
+Pow/Tgh:	 (3/4)
+Rules Text:	 Flying
+Whenever you cast an instant or sorcery spell, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Common
+
+Name	Priest of Iroas
+Cost:	 R
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (1/1)
+Rules Text:	 {3}{W}, Sacrifice Priest of Iroas: Destroy target enchantment.
+Set/Rarity:	 Theros Common
+
+Name	Prognostic Sphinx
+Cost:	 3UU
+Type:	 Creature — Sphinx
+Pow/Tgh:	 (3/5)
+Rules Text:	 Flying
+Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.
+Whenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity:	 Theros Rare
+
+Name	Prophet of Kruphix
+Cost:	 3GU
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (2/3)
+Rules Text:	 Untap all creatures and lands you control during each other player's untap step.
+You may cast creature cards as though they had flash.
+Set/Rarity:	 Theros Rare
+
+Name	Prowler's Helm
+Cost:	 2
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature can't be blocked except by Walls.
+Equip {2}
+Set/Rarity:	 Theros Uncommon
+
+Name	Psychic Intrusion
+Cost:	 3UB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target opponent reveals his or her hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
+Set/Rarity:	 Theros Rare
+
+Name	Purphoros, God of the Forge
+Cost:	 3R
+Type:	 Legendary Enchantment Creature — God
+Pow/Tgh:	 (6/5)
+Rules Text:	 Indestructible
+As long as your devotion to red is less than five, Purphoros isn't a creature.
+Whenever another creature enters the battlefield under your control, Purphoros deals 2 damage to each opponent.
+{2}{R}: Creatures you control get +1/+0 until end of turn.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Purphoros's Emissary
+Cost:	 3R
+Type:	 Enchantment Creature — Ox
+Pow/Tgh:	 (3/3)
+Rules Text:	 Bestow {6}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Purphoros's Emissary can't be blocked except by two or more creatures.
+Enchanted creature gets +3/+3 and can't be blocked except by two or more creatures.
+Set/Rarity:	 Theros Uncommon
+
+Name	Pyxis of Pandemonium
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Each player exiles the top card of his or her library face down.
+{7}, {T}, Sacrifice Pyxis of Pandemonium: Each player turns face up all cards he or she owns exiled with Pyxis of Pandemonium, then puts all permanent cards among them onto the battlefield.
+Set/Rarity:	 Theros Rare
+
+Name	Rage of Purphoros
+Cost:	 4R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Rage of Purphoros deals 4 damage to target creature. It can't be regenerated this turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Common
+
+Name	Rageblood Shaman
+Cost:	 1RR
+Type:	 Creature — Minotaur Shaman
+Pow/Tgh:	 (2/3)
+Rules Text:	 Trample
+Other Minotaur creatures you control get +1/+1 and have trample.
+Set/Rarity:	 Theros Rare
+
+Name	Ray of Dissolution
+Cost:	 2W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target enchantment. You gain 3 life.
+Set/Rarity:	 Theros Common
+
+Name	Read the Bones
+Cost:	 2B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity:	 Theros Common
+
+Name	Reaper of the Wilds
+Cost:	 2BG
+Type:	 Creature — Gorgon
+Pow/Tgh:	 (4/5)
+Rules Text:	 Whenever another creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{B}: Reaper of the Wilds gains deathtouch until end of turn.
+{1}{G}: Reaper of the Wilds gains hexproof until end of turn.
+Set/Rarity:	 Theros Rare
+
+Name	Rescue from the Underworld
+Cost:	 4B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Rescue from the Underworld, sacrifice a creature. 
+Choose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep. Exile Rescue from the Underworld.
+Set/Rarity:	 Theros Uncommon
+
+Name	Returned Centaur
+Cost:	 3B
+Type:	 Creature — Zombie Centaur
+Pow/Tgh:	 (2/4)
+Rules Text:	 When Returned Centaur enters the battlefield, target player puts the top four cards of his or her library into his or her graveyard.
+Set/Rarity:	 Theros Common
+
+Name	Returned Phalanx
+Cost:	 1B
+Type:	 Creature — Zombie Soldier
+Pow/Tgh:	 (3/3)
+Rules Text:	 Defender
+{1}{U}: Returned Phalanx can attack this turn as though it didn't have defender.
+Set/Rarity:	 Theros Common
+
+Name	Reverent Hunter
+Cost:	 2G
+Type:	 Creature — Human Archer
+Pow/Tgh:	 (1/1)
+Rules Text:	 When Reverent Hunter enters the battlefield, put a number of +1/+1 counters on it equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+Set/Rarity:	 Theros Rare
+
+Name	Satyr Hedonist
+Cost:	 1G
+Type:	 Creature — Satyr
+Pow/Tgh:	 (2/1)
+Rules Text:	 {R}, Sacrifice Satyr Hedonist: Add {R}{R}{R} to your mana pool.
+Set/Rarity:	 Theros Common
+
+Name	Satyr Piper
+Cost:	 2G
+Type:	 Creature — Satyr Rogue
+Pow/Tgh:	 (2/1)
+Rules Text:	 {3}{G}: Target creature must be blocked this turn if able.
+Set/Rarity:	 Theros Uncommon
+
+Name	Satyr Rambler
+Cost:	 1R
+Type:	 Creature — Satyr
+Pow/Tgh:	 (2/1)
+Rules Text:	 Trample
+Set/Rarity:	 Theros Common
+
+Name	Savage Surge
+Cost:	 1G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +2/+2 until end of turn. Untap that creature.
+Set/Rarity:	 Theros Common
+
+Name	Scholar of Athreos
+Cost:	 2W
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (1/4)
+Rules Text:	 {2}{B}: Each opponent loses 1 life. You gain life equal to the life lost this way.
+Set/Rarity:	 Theros Common
+
+Name	Scourgemark
+Cost:	 1B
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+When Scourgemark enters the battlefield, draw a card.
+Enchanted creature gets +1/+0.
+Set/Rarity:	 Theros Common
+
+Name	Sea God's Revenge
+Cost:	 5U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Return up to three target creatures your opponents control to their owners' hands. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Uncommon
+
+Name	Sealock Monster
+Cost:	 3UU
+Type:	 Creature — Octopus
+Pow/Tgh:	 (5/5)
+Rules Text:	 Sealock Monster can't attack unless defending player controls an Island.
+{5}{U}{U}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.
+Set/Rarity:	 Theros Uncommon
+
+Name	Sedge Scorpion
+Cost:	 G
+Type:	 Creature — Scorpion
+Pow/Tgh:	 (1/1)
+Rules Text:	 Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Set/Rarity:	 Theros Common
+
+Name	Sentry of the Underworld
+Cost:	 3WB
+Type:	 Creature — Griffin Skeleton
+Pow/Tgh:	 (3/3)
+Rules Text:	 Flying, vigilance
+{W}{B}, Pay 3 life: Regenerate Sentry of the Underworld.
+Set/Rarity:	 Theros Uncommon
+
+Name	Setessan Battle Priest
+Cost:	 1W
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (1/3)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Setessan Battle Priest, you gain 2 life.
+Set/Rarity:	 Theros Common
+
+Name	Setessan Griffin
+Cost:	 4W
+Type:	 Creature — Griffin
+Pow/Tgh:	 (3/2)
+Rules Text:	 Flying
+{2}{G}{G}: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.
+Set/Rarity:	 Theros Common
+
+Name	Shipbreaker Kraken
+Cost:	 4UU
+Type:	 Creature — Kraken
+Pow/Tgh:	 (6/6)
+Rules Text:	 {6}{U}{U}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)
+When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken.
+Set/Rarity:	 Theros Rare
+
+Name	Shipwreck Singer
+Cost:	 UB
+Type:	 Creature — Siren
+Pow/Tgh:	 (1/2)
+Rules Text:	 Flying
+{1}{U}: Target creature an opponent controls attacks this turn if able.
+{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn.
+Set/Rarity:	 Theros Uncommon
+
+Name	Shredding Winds
+Cost:	 2G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Shredding Winds deals 7 damage to target creature with flying.
+Set/Rarity:	 Theros Common
+
+Name	Silent Artisan
+Cost:	 3WW
+Type:	 Creature — Giant
+Pow/Tgh:	 (3/5)
+Rules Text:	
+Set/Rarity:	 Theros Common
+
+Name	Sip of Hemlock
+Cost:	 4BB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target creature. Its controller loses 2 life.
+Set/Rarity:	 Theros Common
+
+Name	Soldier of the Pantheon
+Cost:	 W
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (2/1)
+Rules Text:	 Protection from multicolored
+Whenever an opponent casts a multicolored spell, you gain 1 life.
+Set/Rarity:	 Theros Rare
+
+Name	Spark Jolt
+Cost:	 R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Spark Jolt deals 1 damage to target creature or player. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Common
+
+Name	Spear of Heliod
+Cost:	 1WW
+Type:	 Legendary Enchantment Artifact
+Pow/Tgh:	
+Rules Text:	 Creatures you control get +1/+1.
+{1}{W}{W}, {T}: Destroy target creature that dealt damage to you this turn.
+Set/Rarity:	 Theros Rare
+
+Name	Spearpoint Oread
+Cost:	 2R
+Type:	 Enchantment Creature — Nymph
+Pow/Tgh:	 (2/2)
+Rules Text:	 Bestow {5}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+First strike
+Enchanted creature gets +2/+2 and has first strike.
+Set/Rarity:	 Theros Common
+
+Name	Spellheart Chimera
+Cost:	 1UR
+Type:	 Creature — Chimera
+Pow/Tgh:	 (*/3)
+Rules Text:	 Flying, trample
+Spellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.
+Set/Rarity:	 Theros Uncommon
+
+Name	Staunch-Hearted Warrior
+Cost:	 3G
+Type:	 Creature — Human Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Staunch-Hearted Warrior, put two +1/+1 counters on Staunch-Hearted Warrior.
+Set/Rarity:	 Theros Common
+
+Name	Steam Augury
+Cost:	 2UR
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+Set/Rarity:	 Theros Rare
+
+Name	Stoneshock Giant
+Cost:	 3RR
+Type:	 Creature — Giant
+Pow/Tgh:	 (5/4)
+Rules Text:	 {6}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Stoneshock Giant becomes monstrous, creatures without flying your opponents control can't block this turn.
+Set/Rarity:	 Theros Uncommon
+
+Name	Stormbreath Dragon
+Cost:	 3RR
+Type:	 Creature — Dragon
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying, haste, protection from white
+{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Stormbreath Dragon becomes monstrous, it deals damage to each opponent equal to the number of cards in that player's hand.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Stymied Hopes
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target spell unless its controller pays {1}. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Common
+
+Name	Swamp
+Cost:	
+Type:	 Basic Land — Swamp
+Pow/Tgh:	
+Rules Text:	 B
+Set/Rarity:	 Theros Land, Theros Land, Theros Land, Theros Land
+
+Name	Swan Song
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target enchantment, instant, or sorcery spell. Its controller puts a 2/2 blue Bird creature token with flying onto the battlefield.
+Set/Rarity:	 Theros Rare
+
+Name	Sylvan Caryatid
+Cost:	 1G
+Type:	 Creature — Plant
+Pow/Tgh:	 (0/3)
+Rules Text:	 Defender, hexproof
+{T}: Add one mana of any color to your mana pool.
+Set/Rarity:	 Theros Rare
+
+Name	Temple of Abandon
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Temple of Abandon enters the battlefield tapped.
+When Temple of Abandon enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {R} or {G} to your mana pool.
+Set/Rarity:	 Theros Rare
+
+Name	Temple of Deceit
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Temple of Deceit enters the battlefield tapped.
+When Temple of Deceit enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {U} or {B} to your mana pool.
+Set/Rarity:	 Theros Rare
+
+Name	Temple of Mystery
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Temple of Mystery enters the battlefield tapped.
+When Temple of Mystery enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {G} or {U} to your mana pool.
+Set/Rarity:	 Theros Rare
+
+Name	Temple of Silence
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Temple of Silence enters the battlefield tapped.
+When Temple of Silence enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {W} or {B} to your mana pool.
+Set/Rarity:	 Theros Rare
+
+Name	Temple of Triumph
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Temple of Triumph enters the battlefield tapped.
+When Temple of Triumph enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {R} or {W} to your mana pool.
+Set/Rarity:	 Theros Rare
+
+Name	Thassa, God of the Sea
+Cost:	 2U
+Type:	 Legendary Enchantment Creature — God
+Pow/Tgh:	 (5/5)
+Rules Text:	 Indestructible
+As long as your devotion to blue is less than five, Thassa isn't a creature. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
+At the beginning of your upkeep, scry 1.
+{1}{U}: Target creature you control can't be blocked this turn.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Thassa's Bounty
+Cost:	 5U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Draw three cards. Target player puts the top three cards of his or her library into his or her graveyard.
+Set/Rarity:	 Theros Common
+
+Name	Thassa's Emissary
+Cost:	 3U
+Type:	 Enchantment Creature — Crab
+Pow/Tgh:	 (3/3)
+Rules Text:	 Bestow {5}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Whenever Thassa's Emissary or enchanted creature deals combat damage to a player, draw a card.
+Enchanted creature gets +3/+3.
+Set/Rarity:	 Theros Uncommon
+
+Name	Thoughtseize
+Cost:	 B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player reveals his or her hand. You choose a nonland card from it. That player discards that card. You lose 2 life.
+Set/Rarity:	 Theros Rare
+
+Name	Time to Feed
+Cost:	 2G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that
+creature. (Each deals damage equal to its power to the other.)
+Set/Rarity:	 Theros Common
+
+Name	Titan of Eternal Fire
+Cost:	 5R
+Type:	 Creature — Giant
+Pow/Tgh:	 (5/6)
+Rules Text:	 Each Human creature you control has "{R}, {T}: This creature deals 1 damage to target creature or player."
+Set/Rarity:	 Theros Rare
+
+Name	Titan's Strength
+Cost:	 R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +3/+1 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Common
+
+Name	Tormented Hero
+Cost:	 B
+Type:	 Creature — Human Warrior
+Pow/Tgh:	 (2/1)
+Rules Text:	 Tormented Hero enters the battlefield tapped.
+Heroic — Whenever you cast a spell that targets Tormented Hero, each opponent loses 1 life. You gain life equal to the life lost this way.
+Set/Rarity:	 Theros Uncommon
+
+Name	Traveler's Amulet
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+Set/Rarity:	 Theros Common
+
+Name	Traveling Philosopher
+Cost:	 1W
+Type:	 Creature — Human Advisor
+Pow/Tgh:	 (2/2)
+Rules Text:	
+Set/Rarity:	 Theros Common
+
+Name	Triad of Fates
+Cost:	 2WB
+Type:	 Legendary Creature — Human Wizard
+Pow/Tgh:	 (3/3)
+Rules Text:	 {1}, {T}: Put a fate counter on another target creature.
+{W}, {T}: Exile target creature that has a fate counter on it, then return it to the battlefield under its owner's control.
+{B}, {T}: Exile target creature that has a fate counter on it. Its controller draws two cards.
+Set/Rarity:	 Theros Rare
+
+Name	Triton Fortune Hunter
+Cost:	 2U
+Type:	 Creature — Merfolk Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Triton Fortune Hunter, draw a card.
+Set/Rarity:	 Theros Uncommon
+
+Name	Triton Shorethief
+Cost:	 U
+Type:	 Creature — Merfolk Rogue
+Pow/Tgh:	 (1/2)
+Rules Text:	
+Set/Rarity:	 Theros Common
+
+Name	Triton Tactics
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step.
+Set/Rarity:	 Theros Uncommon
+
+Name	Two-Headed Cerberus
+Cost:	 1RR
+Type:	 Creature — Hound
+Pow/Tgh:	 (1/2)
+Rules Text:	 Double strike (This creature deals both first-strike and regular combat damage.)
+Set/Rarity:	 Theros Common
+
+Name	Tymaret, the Murder King
+Cost:	 BR
+Type:	 Legendary Creature — Zombie Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 {1}{R}, Sacrifice another creature: Tymaret, the Murder King deals 2 damage to target player.
+{1}{B}, Sacrifice a creature: Return Tymaret from your graveyard to your hand.
+Set/Rarity:	 Theros Rare
+
+Name	Underworld Cerberus
+Cost:	 3BR
+Type:	 Creature — Hound
+Pow/Tgh:	 (6/6)
+Rules Text:	 Underworld Cerberus can't be blocked except by three or more creatures.
+Cards in graveyards can't be the targets of spells or abilities.
+When Underworld Cerberus dies, exile it and each player returns all creature cards from his or her graveyard to his or her hand.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Unknown Shores
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}: Add {1} to your mana pool.
+{1}, {T}: Add one mana of any color to your mana pool.
+Set/Rarity:	 Theros Common
+
+Name	Vanquish the Foul
+Cost:	 5W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target creature with power 4 or greater. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Uncommon
+
+Name	Vaporkin
+Cost:	 1U
+Type:	 Creature — Elemental
+Pow/Tgh:	 (2/1)
+Rules Text:	 Flying
+Vaporkin can block only creatures with flying.
+Set/Rarity:	 Theros Common
+
+Name	Viper's Kiss
+Cost:	 B
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets -1/-1, and its activated abilities can't be activated.
+Set/Rarity:	 Theros Common
+
+Name	Voyage's End
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Return target creature to its owner's hand. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Set/Rarity:	 Theros Common
+
+Name	Voyaging Satyr
+Cost:	 1G
+Type:	 Creature — Satyr Druid
+Pow/Tgh:	 (1/2)
+Rules Text:	 {T}: Untap target land.
+Set/Rarity:	 Theros Common
+
+Name	Vulpine Goliath
+Cost:	 4GG
+Type:	 Creature — Fox
+Pow/Tgh:	 (6/5)
+Rules Text:	 Trample
+Set/Rarity:	 Theros Common
+
+Name	Warriors' Lesson
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Until end of turn, up to two target creatures you control each gain "Whenever this creature deals combat damage to a player, draw a card."
+Set/Rarity:	 Theros Uncommon
+
+Name	Wavecrash Triton
+Cost:	 2U
+Type:	 Creature — Merfolk Wizard
+Pow/Tgh:	 (1/4)
+Rules Text:	 Heroic — Whenever you cast a spell that targets Wavecrash Triton, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+Set/Rarity:	 Theros Common
+
+Name	Whip of Erebos
+Cost:	 2BB
+Type:	 Legendary Enchantment Artifact
+Pow/Tgh:	
+Rules Text:	 Creatures you control have lifelink.
+{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.
+Set/Rarity:	 Theros Rare
+
+Name	Wild Celebrants
+Cost:	 3RR
+Type:	 Creature — Satyr
+Pow/Tgh:	 (5/3)
+Rules Text:	 When Wild Celebrants enters the battlefield, you may destroy target artifact.
+Set/Rarity:	 Theros Common
+
+Name	Wingsteed Rider
+Cost:	 1WW
+Type:	 Creature — Human Knight
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+Heroic — Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 counter on Wingsteed Rider.
+Set/Rarity:	 Theros Common
+
+Name	Witches' Eye
+Cost:	 1
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature has "{1}, {T}: Scry 1." (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+Equip {1}
+Set/Rarity:	 Theros Uncommon
+
+Name	Xenagos, the Reveler
+Cost:	 2RG
+Type:	 Planeswalker — Xenagos
+Loyalty:	 (3)
+Rules Text:	 +1: Add X mana in any combination of {R} and/or {G} to your mana pool, where X is the number of creatures you control.
+0: Put a 2/2 red and green Satyr creature token with haste onto the battlefield.
+-6: Exile the top seven cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield.
+Set/Rarity:	 Theros Mythic Rare
+
+Name	Yoked Ox
+Cost:	 W
+Type:	 Creature — Ox
+Pow/Tgh:	 (0/4)
+Rules Text:	
+Set/Rarity:	 Theros Common

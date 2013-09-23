@@ -3,6 +3,7 @@ package models;
 import play.data.validation.Constraints;
 import play.db.ebean.Model;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
@@ -17,7 +18,7 @@ public class Pickorder extends Model{
     @Constraints.Required
     private String name;
 
-    @OneToMany
+    @OneToMany (cascade = CascadeType.ALL)
     private List<PickorderCard> cards;
 
     public Long getId() {
