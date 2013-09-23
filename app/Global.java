@@ -1,7 +1,6 @@
 import com.avaje.ebean.Ebean;
 import models.Card;
 import models.Pickorder;
-import models.PickorderCard;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import play.Application;

@@ -1,12 +1,12 @@
 package services;
 
-import com.avaje.ebean.Ebean;
 import models.Card;
 import models.Pickorder;
 import models.PickorderCard;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import repositories.CardRepository;
+import repositories.PickorderCardRepository;
 import repositories.PickorderRepository;
 
 import java.util.List;
@@ -16,6 +16,9 @@ public class PickorderService {
 
     @Autowired
     private PickorderRepository pickorderRepository;
+
+    @Autowired
+    private PickorderCardRepository pickorderCardRepository;
 
     @Autowired
     private CardRepository cardRepository;
@@ -29,7 +32,7 @@ public class PickorderService {
             pickorderCard.setCard(card);
             pickorderCard.setPickorder(pickorder);
             pickorderCard.setRank(count++);
-            Ebean.save(pickorderCard);
+            pickorderCardRepository.savePickorderCard(pickorderCard);
         }
 
     }
@@ -45,15 +48,14 @@ public class PickorderService {
     public void update(Long id, Integer rank, Integer newRank) {
         Pickorder pickorder = pickorderRepository.getPickorder(id);
 
-        for (PickorderCard card : pickorder.getCards()) {
-            if (card.getRank() == rank) {
-                card.setRank(newRank);
-            } else if (card.getRank() == newRank) {
-                card.setRank(rank);
+        for (PickorderCard pickorderCard : pickorder.getCards()) {
+            if (pickorderCard.getRank().equals(rank)) {
+                pickorderCard.setRank(newRank);
+                pickorderCardRepository.updatePickorderCard(pickorderCard);
+            } else if (pickorderCard.getRank().equals(newRank)) {
+                pickorderCard.setRank(rank);
+                pickorderCardRepository.updatePickorderCard(pickorderCard);
             }
         }
-
-        pickorderRepository.update(pickorder);
-
     }
 }
