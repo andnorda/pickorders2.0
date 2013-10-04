@@ -38,6 +38,7 @@ define(function(require) {
         create: function(e) {
             e.preventDefault();
             this.model.save();
+            Backbone.history.navigate("#", {trigger: true});
         },
 
         render: function() {
