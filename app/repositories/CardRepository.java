@@ -21,7 +21,7 @@ public class CardRepository {
     }
 
     public List<Card> getCards(String colors, String rarities) {
-        List<Card> cards = new ArrayList<>();
+        List<Card> cards = new ArrayList<Card>();
         for (char color : colors.toCharArray()) {
             for (char rarity : rarities.toCharArray()) {
                 cards.addAll(find.where().contains("colors", String.valueOf(color)).eq("rarity", String.valueOf(rarity)).findSet());
