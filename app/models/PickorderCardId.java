@@ -1,11 +1,6 @@
 package models;
 
-import play.db.ebean.Model;
-
-import javax.persistence.Embeddable;
-
-@Embeddable
-public class PickorderCardId extends Model {
+public class PickorderCardId {
 
     private Long cardId;
     private Long pickorderId;

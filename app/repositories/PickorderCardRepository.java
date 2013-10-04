@@ -14,11 +14,13 @@ public class PickorderCardRepository {
 
     public void savePickorderCard(PickorderCard pickorderCard) {
         System.out.println("saving pickorderCard with rank " + pickorderCard.getRank());
+        System.out.println("card name " + pickorderCard.getCard().getName());
+        System.out.println("pickorder name " + pickorderCard.getPickorder().getName());
         Ebean.save(pickorderCard);
     }
 
     public void updatePickorderCard(PickorderCard pickorderCard) {
-        pickorderCard.update();
+        Ebean.update(pickorderCard);
     }
 
     public PickorderCard getPickorderCard(Long id) {

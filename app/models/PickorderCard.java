@@ -2,24 +2,21 @@ package models;
 
 import org.codehaus.jackson.annotate.JsonIgnore;
 import play.data.validation.Constraints;
-import play.db.ebean.Model;
 
 import javax.persistence.*;
 
 @Entity
 @Table(name="PICKORDER_CARD")
 @IdClass(PickorderCardId.class)
-public class PickorderCard extends Model {
+public class PickorderCard {
 
     @Constraints.Required
     private Integer rank;
 
-    @Id
     @ManyToOne
     @PrimaryKeyJoinColumn(name="CARDID", referencedColumnName="ID")
     private Card card;
 
-    @Id
     @JsonIgnore
     @ManyToOne
     @PrimaryKeyJoinColumn(name="PICKORDERID", referencedColumnName="ID")

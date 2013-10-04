@@ -1,5 +1,6 @@
 package repositories;
 
+import com.avaje.ebean.Ebean;
 import models.Pickorder;
 import org.springframework.stereotype.Repository;
 import play.db.ebean.Model;
@@ -15,7 +16,7 @@ public class PickorderRepository {
         System.out.println("creating pickorder " + name);
         Pickorder pickorder = new Pickorder();
         pickorder.setName(name);
-        pickorder.save();
+        Ebean.save(pickorder);
         return pickorder;
     }
 
@@ -28,6 +29,6 @@ public class PickorderRepository {
     }
 
     public void update(Pickorder pickorder) {
-        pickorder.update();
+        Ebean.update(pickorder);
     }
 }

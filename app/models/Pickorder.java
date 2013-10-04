@@ -1,16 +1,14 @@
 package models;
 
 import play.data.validation.Constraints;
-import play.db.ebean.Model;
 
-import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import java.util.List;
 
 @Entity
-public class Pickorder extends Model{
+public class Pickorder {
 
     @Id
     private Long id;
@@ -18,7 +16,7 @@ public class Pickorder extends Model{
     @Constraints.Required
     private String name;
 
-    @OneToMany (cascade = CascadeType.ALL)
+    @OneToMany
     private List<PickorderCard> cards;
 
     public Long getId() {
