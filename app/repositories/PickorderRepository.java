@@ -13,7 +13,6 @@ public class PickorderRepository {
     private Model.Finder<Long,Pickorder> find = new Model.Finder<Long, Pickorder>(Long.class, Pickorder.class);
 
     public Pickorder createPickorder(String name) {
-        System.out.println("creating pickorder " + name);
         Pickorder pickorder = new Pickorder();
         pickorder.setName(name);
         Ebean.save(pickorder);

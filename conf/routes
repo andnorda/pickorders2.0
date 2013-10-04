@@ -12,8 +12,8 @@ GET     /api/cards                  @controllers.CardController.getAllCards()
 GET     /api/cards/:id              @controllers.CardController.getCard(id: Long)
 
 # Pickorders
-GET     /api/pickorders/create      @controllers.PickorderController.createPickorder()
 GET     /api/pickorders             @controllers.PickorderController.getAllPickorders()
+POST    /api/pickorders             @controllers.PickorderController.createPickorder()
 GET     /api/pickorders/:id         @controllers.PickorderController.getPickorder(id: Long)
 PATCH   /api/pickorders/:id         @controllers.PickorderController.patchPickorder(id: Long)
 

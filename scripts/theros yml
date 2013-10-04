@@ -4,1636 +4,1601 @@ cards:
     colors: B
     type:   Creature Demon
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   agent of horizons
     colors: G
     type:   Creature Human Rogue
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   agent of the fates
     colors: B
     type:   Creature Human Assassin
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   akroan crusader
     colors: R
     type:   Creature Human Soldier
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   akroan hoplite
     colors: RW
     type:   Creature Human Soldier
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   akroan horse
-    colors: 
+    colors: A
     type:   Artifact Creature Horse
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   anax and cymede
     colors: RW
     type:   Legendary Creature Human Soldier
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   anger of the gods
     colors: R
     type:   Sorcery
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   annul
     colors: U
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   anthousa, setessan hero
     colors: G
     type:   Legendary Creature Human Warrior
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   anvilwrought raptor
-    colors: 
+    colors: A
     type:   Artifact Creature Bird
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   aqueous form
     colors: U
     type:   Enchantment Aura
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   arbor colossus
     colors: G
     type:   Creature Giant
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   arena athlete
     colors: R
     type:   Creature Human
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   artisan of forms
     colors: U
     type:   Creature Human Wizard
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   artisan's sorrow
     colors: G
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   ashen rider
     colors: WB
     type:   Creature Archon
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   ashiok, nightmare weaver
     colors: UB
     type:   Planeswalker Ashiok
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   asphodel wanderer
     colors: B
     type:   Creature Skeleton Soldier
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   baleful eidolon
     colors: B
     type:   Enchantment Creature Spirit
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   battlewise hoplite
     colors: WU
     type:   Creature Human Soldier
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   battlewise valor
     colors: W
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   benthic giant
     colors: U
     type:   Creature Giant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   bident of thassa
-    colors: U
+    colors: A
     type:   Legendary Enchantment Artifact
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   blood-toll harpy
     colors: B
     type:   Creature Harpy
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   boon of erebos
     colors: B
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   boon satyr
     colors: G
     type:   Enchantment Creature Satyr
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   borderland minotaur
     colors: R
     type:   Creature Minotaur Warrior
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   boulderfall
     colors: R
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   bow of nylea
-    colors: G
+    colors: A
     type:   Legendary Enchantment Artifact
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   breaching hippocamp
     colors: U
     type:   Creature Horse Fish
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   bronze sable
-    colors: 
+    colors: A
     type:   Artifact Creature Sable
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   burnished hart
-    colors: 
+    colors: A
     type:   Artifact Creature Elk
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   cavalry pegasus
     colors: W
     type:   Creature Pegasus
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   cavern lampad
     colors: B
     type:   Enchantment Creature Nymph
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   celestial archon
     colors: W
     type:   Enchantment Creature Archon
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   centaur battlemaster
     colors: G
     type:   Creature Centaur Warrior
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   chained to the rocks
     colors: W
     type:   Enchantment Aura
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   chosen by heliod
     colors: W
     type:   Enchantment Aura
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   chronicler of heroes
     colors: GW
     type:   Creature Centaur Wizard
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   coastline chimera
     colors: U
     type:   Creature Chimera
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   colossus of akros
-    colors: 
+    colors: A
     type:   Artifact Creature Golem
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   commune with the gods
     colors: G
     type:   Sorcery
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   coordinated assault
     colors: R
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   crackling triton
     colors: U
     type:   Creature Merfolk Wizard
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   curse of the swine
     colors: U
     type:   Sorcery
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   cutthroat maneuver
     colors: B
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   dark betrayal
     colors: B
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   dauntless onslaught
     colors: W
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   daxos of meletis
     colors: WU
     type:   Legendary Creature Human Soldier
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   deathbellow raider
     colors: R
     type:   Creature Minotaur Berserker
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   decorated griffin
     colors: W
     type:   Creature Griffin
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   defend the hearth
     colors: G
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   demolish
     colors: R
     type:   Sorcery
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   destructive revelry
     colors: RG
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   disciple of phenax
     colors: B
     type:   Creature Human Cleric
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   dissolve
     colors: U
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   divine verdict
     colors: W
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   dragon mantle
     colors: R
     type:   Enchantment Aura
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   elspeth, sun's champion
     colors: W
     type:   Planeswalker Elspeth
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   ember swallower
     colors: R
     type:   Creature Elemental
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   ephara's warden
     colors: W
     type:   Creature Human Cleric
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   erebos, god of the dead
     colors: B
     type:   Legendary Enchantment Creature God
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   erebos's emissary
     colors: B
     type:   Enchantment Creature Snake
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   evangel of heliod
     colors: W
     type:   Creature Human Cleric
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   fabled hero
     colors: W
     type:   Creature Human Soldier
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   fade into antiquity
     colors: G
     type:   Sorcery
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   fanatic of mogis
     colors: R
     type:   Creature Minotaur Shaman
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   fate foretold
     colors: U
     type:   Enchantment Aura
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   favored hoplite
     colors: W
     type:   Creature Human Soldier
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   felhide minotaur
     colors: B
     type:   Creature Minotaur
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   feral invocation
     colors: G
     type:   Enchantment Aura
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   firedrinker satyr
     colors: R
     type:   Creature Satyr Shaman
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   flamecast wheel
-    colors: 
+    colors: A
     type:   Artifact
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   flamespeaker adept
     colors: R
     type:   Creature Human Shaman
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   fleecemane lion
     colors: GW
     type:   Creature Cat
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   fleetfeather sandals
-    colors: 
+    colors: A
     type:   Artifact Equipment
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   fleshmad steed
     colors: B
     type:   Creature Horse
     set:    m14
-    rarity: Common
-
-  - !!models.Card
-    name:   forest
-    colors: 
-    type:   Basic Land Forest
-    set:    m14
-    rarity: Land
+    rarity: C
 
   - !!models.Card
     name:   gainsay
     colors: U
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   gift of immortality
     colors: W
     type:   Enchantment Aura
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   glare of heresy
     colors: W
     type:   Sorcery
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   gods willing
     colors: W
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   gray merchant of asphodel
     colors: B
     type:   Creature Zombie
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   griptide
     colors: U
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   guardians of meletis
-    colors: 
+    colors: A
     type:   Artifact Creature Golem
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   hammer of purphoros
-    colors: R
+    colors: A
     type:   Legendary Enchantment Artifact
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   heliod, god of the sun
     colors: W
     type:   Legendary Enchantment Creature God
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   heliod's emissary
     colors: W
     type:   Enchantment Creature Elk
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   hero's downfall
     colors: B
     type:   Instant
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   hopeful eidolon
     colors: W
     type:   Enchantment Creature Spirit
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   horizon chimera
     colors: GU
     type:   Creature Chimera
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   horizon scholar
     colors: U
     type:   Creature Sphinx
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   hundred-handed one
     colors: W
     type:   Creature Giant
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   hunt the hunter
     colors: G
     type:   Sorcery
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   hythonia the cruel
     colors: B
     type:   Legendary Creature Gorgon
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   ill-tempered cyclops
     colors: R
     type:   Creature Cyclops
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   insatiable harpy
     colors: B
     type:   Creature Harpy
     set:    m14
-    rarity: Uncommon
-
-  - !!models.Card
-    name:   island
-    colors: 
-    type:   Basic Land Island
-    set:    m14
-    rarity: Land
+    rarity: U
 
   - !!models.Card
     name:   karametra's acolyte
     colors: G
     type:   Creature Human Druid
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   keepsake gorgon
     colors: B
     type:   Creature Gorgon
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   kragma warcaller
     colors: BR
     type:   Creature Minotaur Warrior
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   labyrinth champion
     colors: R
     type:   Creature Human Warrior
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   lagonna-band elder
     colors: W
     type:   Creature Centaur Advisor
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   lash of the whip
     colors: B
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   last breath
     colors: W
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   leafcrown dryad
     colors: G
     type:   Enchantment Creature Nymph Dryad
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   leonin snarecaster
     colors: W
     type:   Creature Cat Soldier
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   lightning strike
     colors: R
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   loathsome catoblepas
     colors: B
     type:   Creature Beast
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   lost in a labyrinth
     colors: U
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   magma jet
     colors: R
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   march of the returned
     colors: B
     type:   Sorcery
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   master of waves
     colors: U
     type:   Creature Merfolk Wizard
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   medomai the ageless
     colors: WU
     type:   Legendary Creature Sphinx
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   meletis charlatan
     colors: U
     type:   Creature Human Wizard
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   messenger's speed
     colors: R
     type:   Enchantment Aura
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   minotaur skullcleaver
     colors: R
     type:   Creature Minotaur Berserker
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   mistcutter hydra
     colors: G
     type:   Creature Hydra
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   mnemonic wall
     colors: U
     type:   Creature Wall
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   mogis's marauder
     colors: B
     type:   Creature Human Berserker
     set:    m14
-    rarity: Uncommon
-
-  - !!models.Card
-    name:   mountain
-    colors: 
-    type:   Basic Land Mountain
-    set:    m14
-    rarity: Land
+    rarity: U
 
   - !!models.Card
     name:   nemesis of mortals
     colors: G
     type:   Creature Snake
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   nessian asp
     colors: G
     type:   Creature Snake
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   nessian courser
     colors: G
     type:   Creature Centaur Warrior
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   nighthowler
     colors: B
     type:   Enchantment Creature Horror
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   nimbus naiad
     colors: U
     type:   Enchantment Creature Nymph
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   nykthos, shrine to nyx
-    colors: 
+    colors: L
     type:   Legendary Land
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   nylea, god of the hunt
     colors: G
     type:   Legendary Enchantment Creature God
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   nylea's disciple
     colors: G
     type:   Creature Centaur Archer
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   nylea's emissary
     colors: G
     type:   Enchantment Creature Cat
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   nylea's presence
     colors: G
     type:   Enchantment Aura
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   observant alseid
     colors: W
     type:   Enchantment Creature Nymph
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   omenspeaker
     colors: U
     type:   Creature Human Wizard
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   opaline unicorn
-    colors: 
+    colors: A
     type:   Artifact Creature Unicorn
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   ordeal of erebos
     colors: B
     type:   Enchantment Aura
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   ordeal of heliod
     colors: W
     type:   Enchantment Aura
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   ordeal of nylea
     colors: G
     type:   Enchantment Aura
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   ordeal of purphoros
     colors: R
     type:   Enchantment Aura
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   ordeal of thassa
     colors: U
     type:   Enchantment Aura
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   peak eruption
     colors: R
     type:   Sorcery
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   phalanx leader
     colors: W
     type:   Creature Human Soldier
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   pharika's cure
     colors: B
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   pharika's mender
     colors: BG
     type:   Creature Gorgon
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   pheres-band centaurs
     colors: G
     type:   Creature Centaur Warrior
     set:    m14
-    rarity: Common
-
-  - !!models.Card
-    name:   plains
-    colors: 
-    type:   Basic Land Plains
-    set:    m14
-    rarity: Land
+    rarity: C
 
   - !!models.Card
     name:   polis crusher
     colors: RG
     type:   Creature Cyclops
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   polukranos, world eater
     colors: G
     type:   Legendary Creature Hydra
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   portent of betrayal
     colors: R
     type:   Sorcery
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   prescient chimera
     colors: U
     type:   Creature Chimera
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   priest of iroas
     colors: R
     type:   Creature Human Cleric
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   prognostic sphinx
     colors: U
     type:   Creature Sphinx
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   prophet of kruphix
     colors: GU
     type:   Creature Human Wizard
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   prowler's helm
-    colors: 
+    colors: A
     type:   Artifact Equipment
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   psychic intrusion
     colors: UB
     type:   Sorcery
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   purphoros, god of the forge
     colors: R
     type:   Legendary Enchantment Creature God
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   purphoros's emissary
     colors: R
     type:   Enchantment Creature Ox
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   pyxis of pandemonium
-    colors: 
+    colors: A
     type:   Artifact
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   rage of purphoros
     colors: R
     type:   Sorcery
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   rageblood shaman
     colors: R
     type:   Creature Minotaur Shaman
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   ray of dissolution
     colors: W
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   read the bones
     colors: B
     type:   Sorcery
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   reaper of the wilds
     colors: BG
     type:   Creature Gorgon
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   rescue from the underworld
     colors: B
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   returned centaur
     colors: B
     type:   Creature Zombie Centaur
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   returned phalanx
     colors: B
     type:   Creature Zombie Soldier
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   reverent hunter
     colors: G
     type:   Creature Human Archer
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   satyr hedonist
     colors: G
     type:   Creature Satyr
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   satyr piper
     colors: G
     type:   Creature Satyr Rogue
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   satyr rambler
     colors: R
     type:   Creature Satyr
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   savage surge
     colors: G
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   scholar of athreos
     colors: W
     type:   Creature Human Cleric
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   scourgemark
     colors: B
     type:   Enchantment Aura
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   sea god's revenge
     colors: U
     type:   Sorcery
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   sealock monster
     colors: U
     type:   Creature Octopus
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   sedge scorpion
     colors: G
     type:   Creature Scorpion
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   sentry of the underworld
     colors: WB
     type:   Creature Griffin Skeleton
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   setessan battle priest
     colors: W
     type:   Creature Human Cleric
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   setessan griffin
     colors: W
     type:   Creature Griffin
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   shipbreaker kraken
     colors: U
     type:   Creature Kraken
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   shipwreck singer
     colors: UB
     type:   Creature Siren
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   shredding winds
     colors: G
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   silent artisan
     colors: W
     type:   Creature Giant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   sip of hemlock
     colors: B
     type:   Sorcery
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   soldier of the pantheon
     colors: W
     type:   Creature Human Soldier
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   spark jolt
     colors: R
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   spear of heliod
-    colors: W
+    colors: A
     type:   Legendary Enchantment Artifact
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   spearpoint oread
     colors: R
     type:   Enchantment Creature Nymph
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   spellheart chimera
     colors: UR
     type:   Creature Chimera
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   staunch-hearted warrior
     colors: G
     type:   Creature Human Warrior
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   steam augury
     colors: UR
     type:   Instant
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   stoneshock giant
     colors: R
     type:   Creature Giant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   stormbreath dragon
     colors: R
     type:   Creature Dragon
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   stymied hopes
     colors: U
     type:   Instant
     set:    m14
-    rarity: Common
-
-  - !!models.Card
-    name:   swamp
-    colors: 
-    type:   Basic Land Swamp
-    set:    m14
-    rarity: Land
+    rarity: C
 
   - !!models.Card
     name:   swan song
     colors: U
     type:   Instant
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   sylvan caryatid
     colors: G
     type:   Creature Plant
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   temple of abandon
-    colors: 
+    colors: L
     type:   Land
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   temple of deceit
-    colors: 
+    colors: L
     type:   Land
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   temple of mystery
-    colors: 
+    colors: L
     type:   Land
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   temple of silence
-    colors: 
+    colors: L
     type:   Land
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   temple of triumph
-    colors: 
+    colors: L
     type:   Land
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   thassa, god of the sea
     colors: U
     type:   Legendary Enchantment Creature God
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   thassa's bounty
     colors: U
     type:   Sorcery
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   thassa's emissary
     colors: U
     type:   Enchantment Creature Crab
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   thoughtseize
     colors: B
     type:   Sorcery
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   time to feed
     colors: G
     type:   Sorcery
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   titan of eternal fire
     colors: R
     type:   Creature Giant
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   titan's strength
     colors: R
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   tormented hero
     colors: B
     type:   Creature Human Warrior
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   traveler's amulet
-    colors: 
+    colors: A
     type:   Artifact
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   traveling philosopher
     colors: W
     type:   Creature Human Advisor
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   triad of fates
     colors: WB
     type:   Legendary Creature Human Wizard
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   triton fortune hunter
     colors: U
     type:   Creature Merfolk Soldier
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   triton shorethief
     colors: U
     type:   Creature Merfolk Rogue
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   triton tactics
     colors: U
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   two-headed cerberus
     colors: R
     type:   Creature Hound
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   tymaret, the murder king
     colors: BR
     type:   Legendary Creature Zombie Warrior
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   underworld cerberus
     colors: BR
     type:   Creature Hound
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   unknown shores
-    colors: 
+    colors: L
     type:   Land
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   vanquish the foul
     colors: W
     type:   Sorcery
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   vaporkin
     colors: U
     type:   Creature Elemental
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   viper's kiss
     colors: B
     type:   Enchantment Aura
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   voyage's end
     colors: U
     type:   Instant
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   voyaging satyr
     colors: G
     type:   Creature Satyr Druid
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   vulpine goliath
     colors: G
     type:   Creature Fox
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   warriors' lesson
     colors: G
     type:   Instant
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   wavecrash triton
     colors: U
     type:   Creature Merfolk Wizard
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   whip of erebos
-    colors: B
+    colors: A
     type:   Legendary Enchantment Artifact
     set:    m14
-    rarity: Rare
+    rarity: R
 
   - !!models.Card
     name:   wild celebrants
     colors: R
     type:   Creature Satyr
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   wingsteed rider
     colors: W
     type:   Creature Human Knight
     set:    m14
-    rarity: Common
+    rarity: C
 
   - !!models.Card
     name:   witches' eye
-    colors: 
+    colors: A
     type:   Artifact Equipment
     set:    m14
-    rarity: Uncommon
+    rarity: U
 
   - !!models.Card
     name:   xenagos, the reveler
     colors: RG
     type:   Planeswalker Xenagos
     set:    m14
-    rarity: Mythic Rare
+    rarity: M
 
   - !!models.Card
     name:   yoked ox
     colors: W
     type:   Creature Ox
     set:    m14
-    rarity: Common
+    rarity: C
 

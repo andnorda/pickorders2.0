@@ -23,9 +23,9 @@ public class PickorderService {
     @Autowired
     private CardRepository cardRepository;
 
-    public void createPickorder(String name) {
+    public void createPickorder(String name, String colors, String rarities) {
         Pickorder pickorder = pickorderRepository.createPickorder(name);
-        List<Card> cards = cardRepository.getAll();
+        List<Card> cards = cardRepository.getCards(colors, rarities);
         int count = 0;
         for (Card card : cards) {
             PickorderCard pickorderCard = new PickorderCard();
@@ -34,7 +34,6 @@ public class PickorderService {
             pickorderCard.setRank(count++);
             pickorderCardRepository.savePickorderCard(pickorderCard);
         }
-
     }
 
     public Pickorder getPickorder(Long id) {

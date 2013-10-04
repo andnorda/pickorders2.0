@@ -17,8 +17,11 @@ public class PickorderController extends Controller {
     private PickorderService pickorderService;
 
     public Result createPickorder() {
-        pickorderService.createPickorder("all");
-        pickorderService.createPickorder("test");
+        JsonNode request = request().body().asJson();
+        String name = request.get("name").toString().replace("\"", "");
+        String colors = request.get("colors").toString().replace("\"", "");
+        String rarities = request.get("rarities").toString().replace("\"", "");
+        pickorderService.createPickorder(name, colors, rarities);
         return ok("Success");
     }
     public Result patchPickorder(Long id) {

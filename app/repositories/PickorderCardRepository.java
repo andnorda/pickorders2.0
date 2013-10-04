@@ -13,9 +13,6 @@ public class PickorderCardRepository {
     private Model.Finder<Long,PickorderCard> find = new Model.Finder<Long, PickorderCard>(Long.class, PickorderCard.class);
 
     public void savePickorderCard(PickorderCard pickorderCard) {
-        System.out.println("saving pickorderCard with rank " + pickorderCard.getRank());
-        System.out.println("card name " + pickorderCard.getCard().getName());
-        System.out.println("pickorder name " + pickorderCard.getPickorder().getName());
         Ebean.save(pickorderCard);
     }
 

@@ -9,10 +9,18 @@ define(function(require) {
     var DashboardView = Backbone.View.extend({
         el: $(".content"),
 
+        events: {
+            "click .new-pickorder": "createPickorder"
+        },
+
         initialize: function(options) {
             this.pickorderListView = new PickorderListView({
                 collection: options.pickorders
             });
+        },
+
+        createPickorder: function() {
+            Backbone.history.navigate("#pickorders/new", {trigger: true})
         },
 
         render: function() {

@@ -1,3 +1,6 @@
+#!/bin/env ruby
+# encoding: utf-8
+
 File.open("theros yml", "w") do |output|
 	File.open("theros spoiler") do |file|
 		output << "cards:\n"
@@ -32,14 +35,20 @@ File.open("theros yml", "w") do |output|
 			if line.start_with? "Type:"
 				type = line.split(":")[1].strip.delete("—").split.join(" ");
 				p type
+			  if type.include? "Land"
+					color = "L"
+				end
+			  if type.include? "Artifact"
+					color = "A"
+				end
 			end
 
-			if line.start_with?("Set/Rarity:") and skip == false
+			if line.start_with?("Set/Rarity:") and skip == false and !type.include? "Basic Land"
 				rarity = line.split(" ")
 				if rarity[-2] == "Mythic"
-					rarity = rarity[-2] + " " + rarity[-1]
+					rarity = rarity[-2][0,1] 
 				else
-					rarity = rarity[-1]
+					rarity = rarity[-1][0,1] 
 				end
 				output << "  - !!models.Card\n"
 				output << "    name:   " + name + "\n"
