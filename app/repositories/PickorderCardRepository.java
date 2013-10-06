@@ -27,4 +27,8 @@ public class PickorderCardRepository {
     public List<PickorderCard> getPickorderCards() {
         return find.all();
     }
+
+    public void delete(PickorderCard card) {
+        Ebean.delete(card);
+    }
 }

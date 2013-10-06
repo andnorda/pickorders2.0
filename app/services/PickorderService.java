@@ -57,4 +57,8 @@ public class PickorderService {
             }
         }
     }
+
+    public void delete(Long id) {
+        pickorderRepository.delete(id);
+    }
 }

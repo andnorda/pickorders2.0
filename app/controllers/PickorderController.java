@@ -42,4 +42,8 @@ public class PickorderController extends Controller {
         return ok(Json.toJson(pickorder));
     }
 
+    public Result delete(Long id) {
+        pickorderService.delete(id);
+        return ok();
+    }
 }

@@ -9,7 +9,15 @@ define(function(require) {
         el: $(".content"),
 
         events: {
-            "click img": "click"
+            "click img": "click",
+            "click button.delete": "delete"
+        },
+
+        delete: function() {
+            if (window.confirm('Delete this pickorder?')) {
+                console.log("test")
+                this.model.destroy({wait: true});
+            }
         },
 
         click: function(event) {

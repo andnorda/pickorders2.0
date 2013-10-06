@@ -30,4 +30,12 @@ public class PickorderRepository {
     public void update(Pickorder pickorder) {
         Ebean.update(pickorder);
     }
+
+    public void delete(Pickorder pickorder) {
+        Ebean.delete(pickorder);
+    }
+
+    public void delete(Long id) {
+        Ebean.delete(find.byId(id));
+    }
 }
