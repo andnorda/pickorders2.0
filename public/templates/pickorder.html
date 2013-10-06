@@ -1,10 +1,10 @@
 {{#pickorder}}
 <h1>{{name}}</h1>
 <ul class="card-list">
-    {{#cards}}
-    <li data-id="{{card.id}}" data-rank="{{rank}}">
-        <img src="http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name={{card.name}}">
+    {{#pickorderCards.models}}
+    <li data-id="{{attributes.card.id}}" data-rank="{{attributes.rank}}">
+        <img src="http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name={{attributes.card.name}}">
     </li>
-    {{/cards}}
+    {{/pickorderCards.models}}
 </ul>
 {{/pickorder}}

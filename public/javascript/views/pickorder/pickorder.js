@@ -23,10 +23,14 @@ define(function(require) {
                 var aboveTargetId = aboveTarget.data("id");
 
                 //save
-                console.log("rank " + targetRank + " newRank " + aboveTargetRank);
                 this.model.save({rank: targetRank, newRank: aboveTargetRank}, {patch: true});
 
                 //update view?
+                console.log("targetId" + targetId)
+                console.log("aboveTargetId" + aboveTargetId)
+                target.after(aboveTarget);
+                target.data("rank", aboveTargetRank);
+                aboveTarget.data("rank", targetRank);
             }
 
 
